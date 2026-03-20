@@ -89,7 +89,37 @@
       "russian": "Каждое слово, маленькая победа.",
       "category": "Confidence",
       "generated_at": "2026-03-20T17:56:26.799679"
+    },
+    {
+      "english": "Tomorrow, will be better.",
+      "russian": "Завтра, будет лучше.",
+      "category": "Hope",
+      "generated_at": "2026-03-20T20:01:30.447753"
+    },
+    {
+      "english": "Keep trying, you'll succeed.",
+      "russian": "Продолжай стараться, получится.",
+      "category": "Hope",
+      "generated_at": "2026-03-20T20:01:30.447761"
+    },
+    {
+      "english": "A new day, brings new chances.",
+      "russian": "Новый день, новые шансы.",
+      "category": "Hope",
+      "generated_at": "2026-03-20T20:01:30.447763"
+    },
+    {
+      "english": "Don't give up, see it through.",
+      "russian": "Не сдавайся, доведи до конца.",
+      "category": "Hope",
+      "generated_at": "2026-03-20T20:01:30.447764"
+    },
+    {
+      "english": "Even small steps, lead forward.",
+      "russian": "Даже малые шаги, ведут вперед.",
+      "category": "Hope",
+      "generated_at": "2026-03-20T20:01:30.447765"
     }
   ],
-  "last_updated": "2026-03-20T17:56:26.799680"
+  "last_updated": "2026-03-20T20:01:30.447767"
 }
