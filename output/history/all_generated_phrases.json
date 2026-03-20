@@ -59,7 +59,37 @@
       "russian": "Слушай свой внутренний голос.",
       "category": "Inner Peace",
       "generated_at": "2026-03-20T15:30:00.650112"
+    },
+    {
+      "english": "Little by little, I learn.",
+      "russian": "Потихоньку, учусь.",
+      "category": "Confidence",
+      "generated_at": "2026-03-20T17:56:26.799666"
+    },
+    {
+      "english": "Mistakes happen, it's okay.",
+      "russian": "Ошибки бывают, это нормально.",
+      "category": "Confidence",
+      "generated_at": "2026-03-20T17:56:26.799675"
+    },
+    {
+      "english": "I understand, a little more.",
+      "russian": "Понимаю, чуточку больше.",
+      "category": "Confidence",
+      "generated_at": "2026-03-20T17:56:26.799677"
+    },
+    {
+      "english": "My Russian, it's growing.",
+      "russian": "Мой русский, он растёт.",
+      "category": "Confidence",
+      "generated_at": "2026-03-20T17:56:26.799678"
+    },
+    {
+      "english": "Each word, a small victory.",
+      "russian": "Каждое слово, маленькая победа.",
+      "category": "Confidence",
+      "generated_at": "2026-03-20T17:56:26.799679"
     }
   ],
-  "last_updated": "2026-03-20T15:30:00.650114"
+  "last_updated": "2026-03-20T17:56:26.799680"
 }
