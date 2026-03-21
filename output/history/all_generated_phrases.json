@@ -179,7 +179,37 @@
       "russian": "Ты приближаешься, будь терпелив.",
       "category": "Perseverance",
       "generated_at": "2026-03-21T04:59:50.954100"
+    },
+    {
+      "english": "Slow down, breathe deep.",
+      "russian": "Медленнее, дыши глубже.",
+      "category": "Balance",
+      "generated_at": "2026-03-21T14:03:01.155196"
+    },
+    {
+      "english": "Find your center, stand tall.",
+      "russian": "Найди свой центр, стой прямо.",
+      "category": "Balance",
+      "generated_at": "2026-03-21T14:03:01.155206"
+    },
+    {
+      "english": "Listen now, speak later.",
+      "russian": "Слушай сейчас, говори потом.",
+      "category": "Balance",
+      "generated_at": "2026-03-21T14:03:01.155207"
+    },
+    {
+      "english": "Ground yourself, feel steady.",
+      "russian": "Заземлись, почувствуй стабильность.",
+      "category": "Balance",
+      "generated_at": "2026-03-21T14:03:01.155208"
+    },
+    {
+      "english": "Step back, gain perspective.",
+      "russian": "Отойди назад, получи перспективу.",
+      "category": "Balance",
+      "generated_at": "2026-03-21T14:03:01.155209"
     }
   ],
-  "last_updated": "2026-03-21T04:59:50.954102"
+  "last_updated": "2026-03-21T14:03:01.155211"
 }
