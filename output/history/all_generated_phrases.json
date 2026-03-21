@@ -149,7 +149,37 @@
       "russian": "Мой мир, ярче с тобой.",
       "category": "Love",
       "generated_at": "2026-03-20T23:01:21.237296"
+    },
+    {
+      "english": "Keep going, you're learning.",
+      "russian": "Продолжай, ты учишься.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-21T04:59:50.954087"
+    },
+    {
+      "english": "Every word counts, little by little.",
+      "russian": "Каждое слово важно, понемногу.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-21T04:59:50.954097"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "russian": "Не сдавайся, попробуй снова.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-21T04:59:50.954098"
+    },
+    {
+      "english": "Practice makes progress, slowly.",
+      "russian": "Практика даёт результат, медленно.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-21T04:59:50.954099"
+    },
+    {
+      "english": "You're getting closer, be patient.",
+      "russian": "Ты приближаешься, будь терпелив.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-21T04:59:50.954100"
     }
   ],
-  "last_updated": "2026-03-20T23:01:21.237298"
+  "last_updated": "2026-03-21T04:59:50.954102"
 }
