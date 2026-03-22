@@ -299,7 +299,37 @@
       "russian": "Ты можешь, продолжай.",
       "category": "Success",
       "generated_at": "2026-03-21T22:55:56.160125"
+    },
+    {
+      "english": "Mistakes are lessons, learned.",
+      "russian": "Ошибки – уроки, усвоенные.",
+      "category": "Growth",
+      "generated_at": "2026-03-22T05:35:35.848958"
+    },
+    {
+      "english": "Patience, brings reward.",
+      "russian": "Терпение, приносит награду.",
+      "category": "Growth",
+      "generated_at": "2026-03-22T05:35:35.848967"
+    },
+    {
+      "english": "Listen well, speak clearly.",
+      "russian": "Слушай внимательно, говори чётко.",
+      "category": "Growth",
+      "generated_at": "2026-03-22T05:35:35.848968"
+    },
+    {
+      "english": "Practice makes, perfect.",
+      "russian": "Практика делает, совершенным.",
+      "category": "Growth",
+      "generated_at": "2026-03-22T05:35:35.848970"
+    },
+    {
+      "english": "Ask questions, find answers.",
+      "russian": "Задавай вопросы, находи ответы.",
+      "category": "Growth",
+      "generated_at": "2026-03-22T05:35:35.848971"
     }
   ],
-  "last_updated": "2026-03-21T22:55:56.160131"
+  "last_updated": "2026-03-22T05:35:35.848973"
 }
