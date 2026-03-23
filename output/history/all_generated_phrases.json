@@ -359,7 +359,37 @@
       "russian": "Безмятежность, тихая сила.",
       "category": "Inner Peace",
       "generated_at": "2026-03-22T16:59:37.128019"
+    },
+    {
+      "english": "Be kind, always.",
+      "russian": "Будь добрым, всегда.",
+      "category": "Kindness",
+      "generated_at": "2026-03-23T05:56:37.849330"
+    },
+    {
+      "english": "Help, if you can.",
+      "russian": "Помоги, если можешь.",
+      "category": "Kindness",
+      "generated_at": "2026-03-23T05:56:37.849339"
+    },
+    {
+      "english": "Share, with joy.",
+      "russian": "Делись, с радостью.",
+      "category": "Kindness",
+      "generated_at": "2026-03-23T05:56:37.849341"
+    },
+    {
+      "english": "Listen, truly.",
+      "russian": "Слушай, внимательно.",
+      "category": "Kindness",
+      "generated_at": "2026-03-23T05:56:37.849342"
+    },
+    {
+      "english": "Smile, it's free.",
+      "russian": "Улыбайся, это бесплатно.",
+      "category": "Kindness",
+      "generated_at": "2026-03-23T05:56:37.849343"
     }
   ],
-  "last_updated": "2026-03-22T16:59:37.128022"
+  "last_updated": "2026-03-23T05:56:37.849345"
 }
