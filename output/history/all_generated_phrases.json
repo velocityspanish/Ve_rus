@@ -419,7 +419,37 @@
       "russian": "Мои искренние слова, тебе.",
       "category": "Gratitude",
       "generated_at": "2026-03-23T18:44:53.518396"
+    },
+    {
+      "english": "Be kind, to yourself.",
+      "russian": "Будь добр, к себе.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-23T20:58:28.166010"
+    },
+    {
+      "english": "Progress, not perfection.",
+      "russian": "Прогресс, не идеал.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-23T20:58:28.166018"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "russian": "Слушай больше, говори меньше.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-23T20:58:28.166019"
+    },
+    {
+      "english": "Try something new, today.",
+      "russian": "Попробуй новое, сегодня.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-23T20:58:28.166020"
+    },
+    {
+      "english": "Breathe deep, find calm.",
+      "russian": "Дыши глубже, найди покой.",
+      "category": "Self Improvement",
+      "generated_at": "2026-03-23T20:58:28.166021"
     }
   ],
-  "last_updated": "2026-03-23T18:44:53.518402"
+  "last_updated": "2026-03-23T20:58:28.166023"
 }
