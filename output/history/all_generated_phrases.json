@@ -479,7 +479,37 @@
       "russian": "Благодарю, вас.",
       "category": "Gratitude",
       "generated_at": "2026-03-24T05:41:22.919457"
+    },
+    {
+      "english": "Listen first, speak later.",
+      "russian": "Сначала слушай, потом говори.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-24T19:37:09.679377"
+    },
+    {
+      "english": "Learn one word, know one thing.",
+      "russian": "Выучил слово, узнал дело.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-24T19:37:09.679386"
+    },
+    {
+      "english": "Patience, my friend, patience.",
+      "russian": "Терпение, мой друг, терпение.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-24T19:37:09.679387"
+    },
+    {
+      "english": "Mistakes are lessons, not failures.",
+      "russian": "Ошибки - уроки, не провалы.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-24T19:37:09.679389"
+    },
+    {
+      "english": "Slowly, but surely, you'll get there.",
+      "russian": "Медленно, но верно, дойдёшь.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-24T19:37:09.679390"
     }
   ],
-  "last_updated": "2026-03-24T05:41:22.919459"
+  "last_updated": "2026-03-24T19:37:09.679391"
 }
