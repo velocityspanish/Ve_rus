@@ -509,7 +509,37 @@
       "russian": "Медленно, но верно, дойдёшь.",
       "category": "Wisdom",
       "generated_at": "2026-03-24T19:37:09.679390"
+    },
+    {
+      "english": "Forgive, easily.",
+      "russian": "Прощай, легко.",
+      "category": "Kindness",
+      "generated_at": "2026-03-25T16:47:18.066613"
+    },
+    {
+      "english": "Encourage, others.",
+      "russian": "Поддерживай, других.",
+      "category": "Kindness",
+      "generated_at": "2026-03-25T16:47:18.066623"
+    },
+    {
+      "english": "Be patient, please.",
+      "russian": "Будь терпелив, пожалуйста.",
+      "category": "Kindness",
+      "generated_at": "2026-03-25T16:47:18.066625"
+    },
+    {
+      "english": "Give, with heart.",
+      "russian": "Дари, от души.",
+      "category": "Kindness",
+      "generated_at": "2026-03-25T16:47:18.066626"
+    },
+    {
+      "english": "Understand, more.",
+      "russian": "Понимай, больше.",
+      "category": "Kindness",
+      "generated_at": "2026-03-25T16:47:18.066627"
     }
   ],
-  "last_updated": "2026-03-24T19:37:09.679391"
+  "last_updated": "2026-03-25T16:47:18.066634"
 }
