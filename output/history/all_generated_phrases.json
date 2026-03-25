@@ -539,7 +539,37 @@
       "russian": "Понимай, больше.",
       "category": "Kindness",
       "generated_at": "2026-03-25T16:47:18.066627"
+    },
+    {
+      "english": "I love your voice, so much.",
+      "russian": "Люблю твой голос, очень сильно.",
+      "category": "Love",
+      "generated_at": "2026-03-25T18:38:59.451245"
+    },
+    {
+      "english": "You make me, happy.",
+      "russian": "Ты делаешь меня, счастливым/счастливой.",
+      "category": "Love",
+      "generated_at": "2026-03-25T18:38:59.451252"
+    },
+    {
+      "english": "Let's be together, forever.",
+      "russian": "Будем вместе, навсегда.",
+      "category": "Love",
+      "generated_at": "2026-03-25T18:38:59.451254"
+    },
+    {
+      "english": "You are, my dream.",
+      "russian": "Ты — моя мечта.",
+      "category": "Love",
+      "generated_at": "2026-03-25T18:38:59.451255"
+    },
+    {
+      "english": "Can't imagine life, without you.",
+      "russian": "Не представляю жизнь, без тебя.",
+      "category": "Love",
+      "generated_at": "2026-03-25T18:38:59.451256"
     }
   ],
-  "last_updated": "2026-03-25T16:47:18.066634"
+  "last_updated": "2026-03-25T18:38:59.451258"
 }
