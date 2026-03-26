@@ -629,7 +629,37 @@
       "russian": "Спасибо за всё.",
       "category": "Friendship",
       "generated_at": "2026-03-26T06:03:00.517569"
+    },
+    {
+      "english": "So happy, to see you!",
+      "russian": "Так рад, тебя видеть!",
+      "category": "Joy",
+      "generated_at": "2026-03-26T16:45:45.613853"
+    },
+    {
+      "english": "What a wonderful day!",
+      "russian": "Какой чудесный день!",
+      "category": "Joy",
+      "generated_at": "2026-03-26T16:45:45.613865"
+    },
+    {
+      "english": "This makes me smile.",
+      "russian": "Это меня радует.",
+      "category": "Joy",
+      "generated_at": "2026-03-26T16:45:45.613866"
+    },
+    {
+      "english": "Feeling great, right now.",
+      "russian": "Чувствую себя отлично, сейчас.",
+      "category": "Joy",
+      "generated_at": "2026-03-26T16:45:45.613867"
+    },
+    {
+      "english": "Such good news!",
+      "russian": "Такая хорошая новость!",
+      "category": "Joy",
+      "generated_at": "2026-03-26T16:45:45.613868"
     }
   ],
-  "last_updated": "2026-03-26T06:03:00.517571"
+  "last_updated": "2026-03-26T16:45:45.613871"
 }
