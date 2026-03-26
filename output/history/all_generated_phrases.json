@@ -599,7 +599,37 @@
       "russian": "Читай русские книги, наслаждайся историями.",
       "category": "Purpose",
       "generated_at": "2026-03-25T20:58:14.203639"
+    },
+    {
+      "english": "Good friends, good times.",
+      "russian": "Хорошие друзья, хорошее время.",
+      "category": "Friendship",
+      "generated_at": "2026-03-26T06:03:00.517558"
+    },
+    {
+      "english": "You're a true friend.",
+      "russian": "Ты настоящий друг.",
+      "category": "Friendship",
+      "generated_at": "2026-03-26T06:03:00.517566"
+    },
+    {
+      "english": "Let's hang out soon.",
+      "russian": "Давай встретимся скоро.",
+      "category": "Friendship",
+      "generated_at": "2026-03-26T06:03:00.517567"
+    },
+    {
+      "english": "I'm here for you.",
+      "russian": "Я здесь для тебя.",
+      "category": "Friendship",
+      "generated_at": "2026-03-26T06:03:00.517568"
+    },
+    {
+      "english": "Thanks for everything.",
+      "russian": "Спасибо за всё.",
+      "category": "Friendship",
+      "generated_at": "2026-03-26T06:03:00.517569"
     }
   ],
-  "last_updated": "2026-03-25T20:58:14.203640"
+  "last_updated": "2026-03-26T06:03:00.517571"
 }
