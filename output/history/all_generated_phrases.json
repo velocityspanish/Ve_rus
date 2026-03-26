@@ -659,7 +659,37 @@
       "russian": "Такая хорошая новость!",
       "category": "Joy",
       "generated_at": "2026-03-26T16:45:45.613868"
+    },
+    {
+      "english": "Speak Russian, little by little.",
+      "russian": "Говори по-русски, понемногу.",
+      "category": "Motivation",
+      "generated_at": "2026-03-26T23:12:16.887617"
+    },
+    {
+      "english": "Learn one word, then another.",
+      "russian": "Учи слово, потом другое.",
+      "category": "Motivation",
+      "generated_at": "2026-03-26T23:12:16.887625"
+    },
+    {
+      "english": "Mistakes are okay, keep going.",
+      "russian": "Ошибки – нормально, продолжай.",
+      "category": "Motivation",
+      "generated_at": "2026-03-26T23:12:16.887627"
+    },
+    {
+      "english": "Your effort, is growing.",
+      "russian": "Твои усилия, растут.",
+      "category": "Motivation",
+      "generated_at": "2026-03-26T23:12:16.887628"
+    },
+    {
+      "english": "Listen well, speak bravely.",
+      "russian": "Слушай хорошо, говори смело.",
+      "category": "Motivation",
+      "generated_at": "2026-03-26T23:12:16.887629"
     }
   ],
-  "last_updated": "2026-03-26T16:45:45.613871"
+  "last_updated": "2026-03-26T23:12:16.887630"
 }
