@@ -809,7 +809,37 @@
       "russian": "Я принимаю извинения.",
       "category": "Forgiveness",
       "generated_at": "2026-03-27T18:38:22.936499"
+    },
+    {
+      "english": "I'm in a good mood.",
+      "russian": "У меня хорошее настроение.",
+      "category": "Joy",
+      "generated_at": "2026-03-27T20:05:46.625339"
+    },
+    {
+      "english": "This is fantastic!",
+      "russian": "Это просто здорово!",
+      "category": "Joy",
+      "generated_at": "2026-03-27T20:05:46.625346"
+    },
+    {
+      "english": "Pure joy, you know?",
+      "russian": "Чистая радость, понимаешь?",
+      "category": "Joy",
+      "generated_at": "2026-03-27T20:05:46.625348"
+    },
+    {
+      "english": "My heart is full.",
+      "russian": "Сердце переполнено.",
+      "category": "Joy",
+      "generated_at": "2026-03-27T20:05:46.625349"
+    },
+    {
+      "english": "So much to be thankful for.",
+      "russian": "Так много поводов для благодарности.",
+      "category": "Joy",
+      "generated_at": "2026-03-27T20:05:46.625350"
     }
   ],
-  "last_updated": "2026-03-27T18:38:22.936500"
+  "last_updated": "2026-03-27T20:05:46.625352"
 }
