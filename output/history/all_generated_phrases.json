@@ -719,7 +719,37 @@
       "russian": "Новый язык, новый мир.",
       "category": "Motivation",
       "generated_at": "2026-03-27T06:03:11.230756"
+    },
+    {
+      "english": "I forgive you, truly.",
+      "russian": "Я прощаю тебя, искренне.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-27T13:20:13.500528"
+    },
+    {
+      "english": "Let's move on, okay?",
+      "russian": "Давай забудем, хорошо?",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-27T13:20:13.500537"
+    },
+    {
+      "english": "It's forgotten, really.",
+      "russian": "Это забыто, правда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-27T13:20:13.500538"
+    },
+    {
+      "english": "No hard feelings, friend.",
+      "russian": "Без обид, друг.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-27T13:20:13.500539"
+    },
+    {
+      "english": "We're good now, yes?",
+      "russian": "Мы в порядке теперь, да?",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-27T13:20:13.500541"
     }
   ],
-  "last_updated": "2026-03-27T06:03:11.230758"
+  "last_updated": "2026-03-27T13:20:13.500542"
 }
