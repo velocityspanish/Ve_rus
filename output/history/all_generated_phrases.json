@@ -779,7 +779,37 @@
       "russian": "Достигни беглости, говори по-русски хорошо.",
       "category": "Purpose",
       "generated_at": "2026-03-27T15:38:48.473233"
+    },
+    {
+      "english": "Don't worry, it's fine.",
+      "russian": "Не волнуйся, всё хорошо.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-27T18:38:22.936486"
+    },
+    {
+      "english": "Consider it history.",
+      "russian": "Считай, это прошлое.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-27T18:38:22.936495"
+    },
+    {
+      "english": "All is forgiven, now.",
+      "russian": "Всё прощено, сейчас.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-27T18:38:22.936496"
+    },
+    {
+      "english": "Let's start anew, please.",
+      "russian": "Давай начнём заново, пожалуйста.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-27T18:38:22.936498"
+    },
+    {
+      "english": "I accept your apology.",
+      "russian": "Я принимаю извинения.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-27T18:38:22.936499"
     }
   ],
-  "last_updated": "2026-03-27T15:38:48.473235"
+  "last_updated": "2026-03-27T18:38:22.936500"
 }
