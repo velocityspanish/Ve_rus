@@ -929,7 +929,37 @@
       "russian": "Грация принимает Дар.",
       "category": "Forgiveness",
       "generated_at": "2026-03-28T14:54:48.588513"
+    },
+    {
+      "english": "Good sentence, spoken!",
+      "russian": "Хорошее предложение, сказано!",
+      "category": "Strength",
+      "generated_at": "2026-03-28T17:04:10.298908"
+    },
+    {
+      "english": "Understanding blooms, slowly.",
+      "russian": "Понимание растёт, медленно.",
+      "category": "Strength",
+      "generated_at": "2026-03-28T17:04:10.298916"
+    },
+    {
+      "english": "My ear, learns well.",
+      "russian": "Моё ухо, учится хорошо.",
+      "category": "Strength",
+      "generated_at": "2026-03-28T17:04:10.298918"
+    },
+    {
+      "english": "One sound, found.",
+      "russian": "Один звук, найден.",
+      "category": "Strength",
+      "generated_at": "2026-03-28T17:04:10.298919"
+    },
+    {
+      "english": "Grammar clicks, yes!",
+      "russian": "Грамматика получается, да!",
+      "category": "Strength",
+      "generated_at": "2026-03-28T17:04:10.298920"
     }
   ],
-  "last_updated": "2026-03-28T14:54:48.588515"
+  "last_updated": "2026-03-28T17:04:10.298921"
 }
