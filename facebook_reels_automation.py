@@ -85,6 +85,9 @@ PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 
 # ============== PHRASE HISTORY MANAGEMENT (Prevent Repeats) ==============
 
+# Track phrases generated in current session to prevent immediate repeats
+_session_phrases = set()
+
 def load_phrase_history():
     """Load all previously generated phrases"""
     if PHRASE_HISTORY_FILE.exists():
@@ -101,13 +104,25 @@ def save_phrase_history(data):
 
 
 def is_phrase_used(english_phrase):
-    """Check if phrase was already generated"""
+    """Check if phrase was already generated (global history + current session)"""
     history = load_phrase_history()
     english_lower = english_phrase.lower().strip()
+    
+    # Check global history
     for p in history.get("phrases", []):
         if p.get("english", "").lower().strip() == english_lower:
             return True
+    
+    # Check current session
+    if english_lower in _session_phrases:
+        return True
+    
     return False
+
+
+def add_phrase_to_session(english_phrase):
+    """Add phrase to session tracking"""
+    _session_phrases.add(english_phrase.lower().strip())
 
 
 def add_phrases_to_history(phrases, category):
@@ -127,12 +142,14 @@ def add_phrases_to_history(phrases, category):
 # ============== CONTENT GENERATION ==============
 
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
-    """Generate unique bilingual phrases with natural pauses, ensuring no repeats"""
+    """Generate unique bilingual phrases with natural pauses, ensuring NO repeats ever"""
 
     category_russian = CATEGORIES_RUSSIAN[category_english]
 
-    # Try AI first
-    max_attempts = 3
+    # Optimized for 2-minute total generation time
+    max_attempts = 3  # Max 3 attempts (not 10) to stay under 2 minutes
+    all_tried_phrases = set()  # Track all phrases seen across all attempts
+    
     for attempt in range(max_attempts):
         try:
             import requests
@@ -142,42 +159,76 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Russian.
+            # Load history to give AI context of what's already used
+            history = load_phrase_history()
+            used_english = [p["english"] for p in history.get("phrases", [])[-50:]]
+            used_context = "\n".join([f"- {p}" for p in used_english[:20]])
 
-IMPORTANT RULES FOR NATURAL SPEECH:
-1. Keep phrases SHORT (5-12 words max per language)
+            # Add randomness to prompt to prevent API caching
+            style_variations = [
+                "Write phrases that feel personal and intimate, like advice from a friend.",
+                "Create phrases with vivid imagery and metaphors from nature.",
+                "Write phrases that challenge conventional thinking and inspire action.",
+                "Create phrases that emphasize inner strength and self-discovery.",
+                "Write phrases that celebrate small victories and daily progress.",
+                "Create phrases with a poetic, contemplative tone.",
+                "Write direct, empowering statements that motivate immediate action.",
+                "Create phrases that blend wisdom with modern life challenges.",
+            ]
+            style_instruction = random.choice(style_variations)
+
+            prompt = f"""Create {num_phrases * 3} unique {category_english} phrases for English speakers learning Russian.
+
+{style_instruction}
+
+FORMAT RULES:
+1. Keep phrases SHORT (4-8 words max per language)
 2. Add NATURAL PAUSES using commas (e.g., "Dream big, start small")
-3. Use punctuation for breathing room in TTS
-4. Avoid long run-on sentences
-5. Each phrase should be speakable in 3-5 seconds
+3. Each phrase should be speakable in 2-4 seconds
+4. NEVER use these already-generated phrases:
+{used_context}
 
-For each phrase:
-1. English phrase (with commas for natural pauses)
-2. Russian translation (with commas matching the rhythm)
-3. Pronunciation guide (phonetic for English speakers using Latin alphabet)
+5. AVOID THESE OVERUSED CLICHÉS (never use these):
+   - "Little by little, wins the race"
+   - "Slow and steady, wins the prize"  
+   - "Patience, is a virtue"
+   - "Rome wasn't built, in a day"
+   - "Good things, take time"
+   - "One step, at a time"
+   - "Keep trying, don't give up"
+   - "Wait for it, it will come"
+   - "Believe in yourself"
+   - "Never give up"
+   - "Dream big, start small"
+   - "You are capable"
+   - "Your future is created"
 
 Return as JSON array:
 [{{"english": "...", "russian": "...", "pronunciation": "..."}}]
 
-IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before."""
+CRITICAL: Every phrase MUST be completely new, unique, and ORIGINAL."""
 
+            # Higher temperature for more creativity
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Russian teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Russian teacher. Create SHORT, FRESH, unique phrases with natural pauses. NEVER repeat phrases. Be creative and original."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": 1.5,
+                "top_p": 1.0,
+                "presence_penalty": 0.5,
+                "frequency_penalty": 0.5
             }
 
-            print(f"[content] Attempt {attempt + 1}: Calling API...")
-            response = requests.post(url, headers=headers, json=payload, timeout=60)
+            print(f"[content] Attempt {attempt + 1}/{max_attempts}: Calling API...")
+            response = requests.post(url, headers=headers, json=payload, timeout=30)
             response.raise_for_status()
 
             data = response.json()
             content = data["choices"][0]["message"]["content"].strip()
-            
-            print(f"[content] Raw API response: {content[:200]}...")
+
+            print(f"[content] Raw API response: {content[:400]}...")
 
             # Extract JSON
             if "```json" in content:
@@ -192,23 +243,57 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before."""
             unique_phrases = []
             skipped_long = 0
             skipped_used = 0
+            skipped_session = 0
+            skipped_cliche = 0
+            
+            # Cliché patterns to detect
+            cliche_patterns = [
+                "little by little", "slow and steady", "patience is a virtue",
+                "rome wasn't built", "good things take time", "one step at a time",
+                "keep trying", "don't give up", "wait for it", "believe in yourself",
+                "never give up", "dream big", "you are capable", "your future"
+            ]
+            
             for phrase in phrases:
-                # Skip if too long (over 15 words)
-                if len(phrase["english"].split()) > 15:
+                english = phrase.get("english", "").strip()
+                english_lower = english.lower()
+                
+                # Skip if too long (over 9 words)
+                if len(english.split()) > 9:
                     skipped_long += 1
                     continue
-                if is_phrase_used(phrase["english"]):
-                    skipped_used += 1
-                    print(f"[content] Skipping duplicate: {phrase['english']}")
+                
+                # Skip if contains cliché patterns
+                if any(cliche in english_lower for cliche in cliche_patterns):
+                    skipped_cliche += 1
+                    print(f"[content] Skipping cliché: {english}")
                     continue
+                
+                # Skip if already in global history
+                if is_phrase_used(english):
+                    skipped_used += 1
+                    print(f"[content] Skipping duplicate (history): {english}")
+                    continue
+                
+                # Skip if we've seen it in this run already
+                if english_lower in all_tried_phrases:
+                    skipped_session += 1
+                    print(f"[content] Skipping duplicate (this run): {english}")
+                    continue
+                
+                # Add to tracking and results
+                all_tried_phrases.add(english_lower)
                 unique_phrases.append(phrase)
+                
                 if len(unique_phrases) >= num_phrases:
                     break
 
-            print(f"[content] Got {len(unique_phrases)} valid phrases (skipped: {skipped_long} too long, {skipped_used} duplicates)")
+            print(f"[content] Got {len(unique_phrases)} valid phrases (skipped: {skipped_long} too long, {skipped_cliche} cliché, {skipped_used} history, {skipped_session} this run)")
 
             if len(unique_phrases) >= num_phrases:
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
+                for p in unique_phrases[:num_phrases]:
+                    add_phrase_to_session(p["english"])
                 return unique_phrases[:num_phrases]
             else:
                 print(f"[content] Only got {len(unique_phrases)} phrases, need {num_phrases}, trying again...")
@@ -216,31 +301,53 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before."""
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
-    # Fallback to fresh phrases
-    print("[content] Using fallback phrases...")
-    return get_fresh_fallback_phrases(category_english, num_phrases)
+    # Last resort attempt with maximum randomness
+    try:
+        import requests
+        url = "https://gen.pollinations.ai/v1/chat/completions"
+        headers = {
+            "Authorization": f"Bearer {POLLINATIONS_API_KEY}",
+            "Content-Type": "application/json"
+        }
+        
+        last_resort_prompt = f"""Generate exactly 5 short {category_english} phrases in English and Russian.
+Make them simple, unique, and different from common clichés.
+Return as JSON: [{{"english": "...", "russian": "...", "pronunciation": "..."}}]"""
 
-
-def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
-    """Get fallback phrases, filtering out used ones"""
-
-    all_fallbacks = {
-        "Motivation": [
-            {"english": "Believe in yourself.", "russian": "Верьте в себя.", "pronunciation": "Vyer'-tye v sye-bya."},
-            {"english": "You are capable of amazing things.", "russian": "Вы способны на удивительные вещи.", "pronunciation": "Vy spo-sob-ny na u-di-vi-tel'-ny-ye vesh-chi."},
-            {"english": "Dream big, start small.", "russian": "Мечтайте по-крупному, начинайте с малого.", "pronunciation": "Mech-tay-te po-krup-no-mu, na-chi-nay-te s ma-lo-go."},
-            {"english": "Your future is created by your actions.", "russian": "Ваше будущее создаётся вашими действиями.", "pronunciation": "Va-she bu-du-shcheye soz-da-yot-sya va-shi-mi deyst-vi-ya-mi."},
-            {"english": "Never give up on your dreams.", "russian": "Никогда не сдавайтесь ради своих мечт.", "pronunciation": "Ni-kog-da ne sdav-ay-tes' ra-di svo-ikh mecht."},
-        ],
-        "Love": [
-            {"english": "Love yourself first.", "russian": "Любите себя в первую очередь.", "pronunciation": "Lyu-bi-te se-bya v per-vu-yu o-che-red'."},
-            {"english": "Love makes everything possible.", "russian": "Любовь делает всё возможным.", "pronunciation": "Lyu-bov' de-la-et vsyo voz-mozh-nym."},
-        ],
-    }
-
-    fallbacks = all_fallbacks.get(category, all_fallbacks["Motivation"])
-    fresh_phrases = [p for p in fallbacks if not is_phrase_used(p["english"])]
-    return fresh_phrases[:num_phrases]
+        payload = {
+            "model": AI_MODEL,
+            "messages": [{"role": "user", "content": last_resort_prompt}],
+            "temperature": 2.0
+        }
+        
+        print(f"[content] Last resort attempt with temperature 2.0...")
+        response = requests.post(url, headers=headers, json=payload, timeout=30)
+        response.raise_for_status()
+        
+        data = response.json()
+        content = data["choices"][0]["message"]["content"].strip()
+        
+        if "```json" in content:
+            content = content.split("```json")[1].split("```")[0].strip()
+        elif "```" in content:
+            content = content.split("```")[1].split("```")[0].strip()
+        
+        phrases = json.loads(content)
+        unique_phrases = [p for p in phrases if not is_phrase_used(p.get("english", ""))]
+        
+        if unique_phrases:
+            add_phrases_to_history(unique_phrases[:num_phrases], category_english)
+            for p in unique_phrases[:num_phrases]:
+                add_phrase_to_session(p["english"])
+            print(f"[content] Got {len(unique_phrases[:num_phrases])} phrases from last resort!")
+            return unique_phrases[:num_phrases]
+    except Exception as e:
+        print(f"[content] Last resort also failed: {e}")
+    
+    raise RuntimeError(
+        f"CRITICAL: Could not generate {num_phrases} unique phrases for '{category_english}' "
+        f"after all attempts. Try again later or check API key."
+    )
 
 
 # ============== AUDIO GENERATION ==============
