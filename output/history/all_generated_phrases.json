@@ -989,7 +989,37 @@
       "russian": "Слушай мир, больше знаешь.",
       "category": "Perseverance",
       "generated_at": "2026-03-28T19:56:00.794896"
+    },
+    {
+      "english": "Small wins, feel great.",
+      "russian": "Маленькие победы, сильно радуют.",
+      "category": "Balance",
+      "generated_at": "2026-03-28T23:01:47.141447"
+    },
+    {
+      "english": "Hear new sounds, clearly.",
+      "russian": "Слышишь новые звуки, четко.",
+      "category": "Balance",
+      "generated_at": "2026-03-28T23:01:47.141457"
+    },
+    {
+      "english": "Speak a phrase, rejoice.",
+      "russian": "Сказал фразу, возрадовался.",
+      "category": "Balance",
+      "generated_at": "2026-03-28T23:01:47.141458"
+    },
+    {
+      "english": "Understand a word, bravo!",
+      "russian": "Понял слово, браво!",
+      "category": "Balance",
+      "generated_at": "2026-03-28T23:01:47.141459"
+    },
+    {
+      "english": "That grammar, clicks now.",
+      "russian": "Эта грамматика, понятна теперь.",
+      "category": "Balance",
+      "generated_at": "2026-03-28T23:01:47.141461"
     }
   ],
-  "last_updated": "2026-03-28T19:56:00.794897"
+  "last_updated": "2026-03-28T23:01:47.141462"
 }
