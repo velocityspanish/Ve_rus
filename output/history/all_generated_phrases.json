@@ -1019,7 +1019,37 @@
       "russian": "Эта грамматика, понятна теперь.",
       "category": "Balance",
       "generated_at": "2026-03-28T23:01:47.141461"
+    },
+    {
+      "english": "Dawn paints a new sky.",
+      "russian": "Заря красит небо.",
+      "category": "Hope",
+      "generated_at": "2026-03-29T06:02:53.047937"
+    },
+    {
+      "english": "Seed sprouts to a flower.",
+      "russian": "Росток станет цветком.",
+      "category": "Hope",
+      "generated_at": "2026-03-29T06:02:53.047950"
+    },
+    {
+      "english": "Sun follows the rain.",
+      "russian": "Солнце после дождя.",
+      "category": "Hope",
+      "generated_at": "2026-03-29T06:02:53.047951"
+    },
+    {
+      "english": "River flows to the sea.",
+      "russian": "Река впадает в море.",
+      "category": "Hope",
+      "generated_at": "2026-03-29T06:02:53.047953"
+    },
+    {
+      "english": "Mountain air breathes new life.",
+      "russian": "Горный воздух дышит.",
+      "category": "Hope",
+      "generated_at": "2026-03-29T06:02:53.047954"
     }
   ],
-  "last_updated": "2026-03-28T23:01:47.141462"
+  "last_updated": "2026-03-29T06:02:53.047956"
 }
