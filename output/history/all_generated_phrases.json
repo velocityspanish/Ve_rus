@@ -1049,7 +1049,37 @@
       "russian": "Горный воздух дышит.",
       "category": "Hope",
       "generated_at": "2026-03-29T06:02:53.047954"
+    },
+    {
+      "english": "Tiny seed, great tree.",
+      "russian": "Микро-семечко, громадной древ.',",
+      "category": "Growth",
+      "generated_at": "2026-03-29T14:56:39.020701"
+    },
+    {
+      "english": "Stream flows, finds sea.",
+      "russian": "Ручей течёт, к морю.",
+      "category": "Growth",
+      "generated_at": "2026-03-29T14:56:39.020712"
+    },
+    {
+      "english": "Sunrise paints, lessons rise.",
+      "russian": "Рассвет рисует, уроков свет.",
+      "category": "Growth",
+      "generated_at": "2026-03-29T14:56:39.020714"
+    },
+    {
+      "english": "Roots deepen, skill grows.",
+      "russian": "Корни глубже, мастерства росток.",
+      "category": "Growth",
+      "generated_at": "2026-03-29T14:56:39.020715"
+    },
+    {
+      "english": "Mountain viewed, climb begins.",
+      "russian": "Гора видна, восхожд. начало.",
+      "category": "Growth",
+      "generated_at": "2026-03-29T14:56:39.020716"
     }
   ],
-  "last_updated": "2026-03-29T06:02:53.047956"
+  "last_updated": "2026-03-29T14:56:39.020718"
 }
