@@ -1229,7 +1229,37 @@
       "russian": "Любопытство творит, чудеса.",
       "category": "Happiness",
       "generated_at": "2026-03-30T17:13:35.413054"
+    },
+    {
+      "english": "Word heard, recognized.",
+      "russian": "Слово услышано, узнано.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T19:37:05.257609"
+    },
+    {
+      "english": "That one fits, nicely.",
+      "russian": "Это подходит, хорошо.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T19:37:05.257617"
+    },
+    {
+      "english": "I understood you briefly.",
+      "russian": "Я понял(а) вас кратко.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T19:37:05.257619"
+    },
+    {
+      "english": "Listen more, feel it.",
+      "russian": "Слушай больше, чувствуй.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T19:37:05.257620"
+    },
+    {
+      "english": "Grammar shines, a bit.",
+      "russian": "Грамматика светит, немного.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T19:37:05.257621"
     }
   ],
-  "last_updated": "2026-03-30T17:13:35.413056"
+  "last_updated": "2026-03-30T19:37:05.257622"
 }
