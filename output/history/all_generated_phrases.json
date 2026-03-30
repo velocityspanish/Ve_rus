@@ -1259,7 +1259,37 @@
       "russian": "Грамматика светит, немного.",
       "category": "Courage",
       "generated_at": "2026-03-30T19:37:05.257621"
+    },
+    {
+      "english": "Speak now, listen well.",
+      "russian": "Говори сейчас, слушай.",
+      "category": "Balance",
+      "generated_at": "2026-03-30T21:28:28.911489"
+    },
+    {
+      "english": "Learn fast, translate later.",
+      "russian": "Учись быстро, переводи.",
+      "category": "Balance",
+      "generated_at": "2026-03-30T21:28:28.911498"
+    },
+    {
+      "english": "Read words, form thoughts.",
+      "russian": "Читай слова, думай.",
+      "category": "Balance",
+      "generated_at": "2026-03-30T21:28:28.911500"
+    },
+    {
+      "english": "Listen, repeat, perfect.",
+      "russian": "Слушай, повторяй, делай.",
+      "category": "Balance",
+      "generated_at": "2026-03-30T21:28:28.911501"
+    },
+    {
+      "english": "One phrase, daily fluency.",
+      "russian": "Фраза в день, говори.",
+      "category": "Balance",
+      "generated_at": "2026-03-30T21:28:28.911502"
     }
   ],
-  "last_updated": "2026-03-30T19:37:05.257622"
+  "last_updated": "2026-03-30T21:28:28.911504"
 }
