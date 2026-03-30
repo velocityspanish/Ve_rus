@@ -1199,7 +1199,37 @@
       "russian": "Твой труд, светит.",
       "category": "Joy",
       "generated_at": "2026-03-30T07:08:13.844793"
+    },
+    {
+      "english": "Joy lives, where you are.",
+      "russian": "Радость живёт, на месте.",
+      "category": "Happiness",
+      "generated_at": "2026-03-30T17:13:35.413042"
+    },
+    {
+      "english": "Action sparks, real happiness.",
+      "russian": "Действие рождает, счастье.",
+      "category": "Happiness",
+      "generated_at": "2026-03-30T17:13:35.413051"
+    },
+    {
+      "english": "Courage finds, its own path.",
+      "russian": "Смелость находит, путь.",
+      "category": "Happiness",
+      "generated_at": "2026-03-30T17:13:35.413052"
+    },
+    {
+      "english": "Kindness spreads, like sunshine.",
+      "russian": "Доброта сеется, солнцем.",
+      "category": "Happiness",
+      "generated_at": "2026-03-30T17:13:35.413053"
+    },
+    {
+      "english": "Curiosity unlocks, new moments.",
+      "russian": "Любопытство творит, чудеса.",
+      "category": "Happiness",
+      "generated_at": "2026-03-30T17:13:35.413054"
     }
   ],
-  "last_updated": "2026-03-30T07:08:13.844795"
+  "last_updated": "2026-03-30T17:13:35.413056"
 }
