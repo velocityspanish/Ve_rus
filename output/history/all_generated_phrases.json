@@ -1439,7 +1439,37 @@
       "russian": "Разбитое склеится, обрастёт.",
       "category": "Forgiveness",
       "generated_at": "2026-03-31T21:01:21.046027"
+    },
+    {
+      "english": "Face the new, bravely.",
+      "russian": "Новое, смело встречай.",
+      "category": "Courage",
+      "generated_at": "2026-03-31T23:51:02.072287"
+    },
+    {
+      "english": "Challenge doubt's echo.",
+      "russian": "Сомнения, тише.",
+      "category": "Courage",
+      "generated_at": "2026-03-31T23:51:02.072300"
+    },
+    {
+      "english": "Jump, into unknown.",
+      "russian": "Рискни, вперёд.",
+      "category": "Courage",
+      "generated_at": "2026-03-31T23:51:02.072301"
+    },
+    {
+      "english": "Break silence, deeply.",
+      "russian": "Молчание, нарушь.",
+      "category": "Courage",
+      "generated_at": "2026-03-31T23:51:02.072302"
+    },
+    {
+      "english": "Speak truth's quiet.",
+      "russian": "Правда, звенит.",
+      "category": "Courage",
+      "generated_at": "2026-03-31T23:51:02.072303"
     }
   ],
-  "last_updated": "2026-03-31T21:01:21.046029"
+  "last_updated": "2026-03-31T23:51:02.072305"
 }
