@@ -1379,7 +1379,37 @@
       "russian": "Русь цветёт, из труда.",
       "category": "Confidence",
       "generated_at": "2026-03-31T16:36:41.741216"
+    },
+    {
+      "english": "Gentle breeze, smooth waters.",
+      "russian": "Лёгкий бриз, гладь воды.",
+      "category": "Kindness",
+      "generated_at": "2026-03-31T19:36:28.883272"
+    },
+    {
+      "english": "Kindness sown, joy blooms.",
+      "russian": "Доброта посеяна, радость цветёт.",
+      "category": "Kindness",
+      "generated_at": "2026-03-31T19:36:28.883281"
+    },
+    {
+      "english": "Open heart, like a sunrise.",
+      "russian": "Открой сердце, как восход.",
+      "category": "Kindness",
+      "generated_at": "2026-03-31T19:36:28.883283"
+    },
+    {
+      "english": "Smile, a sun droplet.",
+      "russian": "Улыбка, капля солнца.",
+      "category": "Kindness",
+      "generated_at": "2026-03-31T19:36:28.883284"
+    },
+    {
+      "english": "Warm words, touch them.",
+      "russian": "Теплые слова, коснись их.",
+      "category": "Kindness",
+      "generated_at": "2026-03-31T19:36:28.883285"
     }
   ],
-  "last_updated": "2026-03-31T16:36:41.741218"
+  "last_updated": "2026-03-31T19:36:28.883287"
 }
