@@ -1589,7 +1589,37 @@
       "russian": "Слышишь? Хватай. Твоё это.",
       "category": "Strength",
       "generated_at": "2026-04-19T16:51:59.326360"
+    },
+    {
+      "english": "For this calm moment, thank you.",
+      "russian": "За этот момент, спасибо.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-19T19:44:34.309630"
+    },
+    {
+      "english": "This challenge, fuels my growth.",
+      "russian": "Этот вызов, питает рост.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-19T19:44:34.309641"
+    },
+    {
+      "english": "Small wins, great joy today.",
+      "russian": "Малые победы, радость dziś.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-19T19:44:34.309642"
+    },
+    {
+      "english": "For wisdom found, I am grateful.",
+      "russian": "За найденную мудрость, я благодарен.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-19T19:44:34.309643"
+    },
+    {
+      "english": "Each lesson, opens new doors.",
+      "russian": "Каждый урок, открывает двери.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-19T19:44:34.309645"
     }
   ],
-  "last_updated": "2026-04-19T16:51:59.326361"
+  "last_updated": "2026-04-19T19:44:34.309646"
 }
