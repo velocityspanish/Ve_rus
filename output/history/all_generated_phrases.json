@@ -1739,7 +1739,37 @@
       "russian": "Найди свой ритм, танцуй его.",
       "category": "Inspiration",
       "generated_at": "2026-04-20T17:12:43.963027"
+    },
+    {
+      "english": "Hear the word, know it.",
+      "russian": "Слово услышал, понял.",
+      "category": "Purpose",
+      "generated_at": "2026-04-20T20:02:45.786348"
+    },
+    {
+      "english": "Repeat sound, get closer.",
+      "russian": "Звук повтори, стань ближе.",
+      "category": "Purpose",
+      "generated_at": "2026-04-20T20:02:45.786359"
+    },
+    {
+      "english": "Read a bit, feel it.",
+      "russian": "Чуть прочитал, ощутил.",
+      "category": "Purpose",
+      "generated_at": "2026-04-20T20:02:45.786360"
+    },
+    {
+      "english": "New sentence, take flight.",
+      "russian": "Новой фразой, улетай.",
+      "category": "Purpose",
+      "generated_at": "2026-04-20T20:02:45.786361"
+    },
+    {
+      "english": "Ask once, it stays.",
+      "russian": "Раз спросил, запомнил.",
+      "category": "Purpose",
+      "generated_at": "2026-04-20T20:02:45.786362"
     }
   ],
-  "last_updated": "2026-04-20T17:12:43.963029"
+  "last_updated": "2026-04-20T20:02:45.786364"
 }
