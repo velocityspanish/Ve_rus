@@ -1769,7 +1769,37 @@
       "russian": "Раз спросил, запомнил.",
       "category": "Purpose",
       "generated_at": "2026-04-20T20:02:45.786362"
+    },
+    {
+      "english": "Sunny day, perfect Russian.",
+      "russian": "Солнечный день, идеальным русский.",
+      "category": "Friendship",
+      "generated_at": "2026-04-20T22:35:00.271259"
+    },
+    {
+      "english": "New sound, feels amazing.",
+      "russian": "Новый звук, ощущается классно.",
+      "category": "Friendship",
+      "generated_at": "2026-04-20T22:35:00.271268"
+    },
+    {
+      "english": "Smart choice, language grows.",
+      "russian": "Умный выбор, язык растёт.",
+      "category": "Friendship",
+      "generated_at": "2026-04-20T22:35:00.271270"
+    },
+    {
+      "english": "Tiny progress, big smile.",
+      "russian": "Маленький успех, большая улыбка.",
+      "category": "Friendship",
+      "generated_at": "2026-04-20T22:35:00.271271"
+    },
+    {
+      "english": "Fresh sentence, feels right.",
+      "russian": "Новое предложение, как на месте.",
+      "category": "Friendship",
+      "generated_at": "2026-04-20T22:35:00.271272"
     }
   ],
-  "last_updated": "2026-04-20T20:02:45.786364"
+  "last_updated": "2026-04-20T22:35:00.271274"
 }
