@@ -2039,7 +2039,37 @@
       "russian": "Буря гнёт, ломает нет.",
       "category": "Strength",
       "generated_at": "2026-04-22T17:09:59.508685"
+    },
+    {
+      "english": "Fluent thinking, opens doorways.",
+      "russian": "Свободная мысль, открывает двери.",
+      "category": "Success",
+      "generated_at": "2026-04-22T20:09:23.318261"
+    },
+    {
+      "english": "Speak bravely, understand more.",
+      "russian": "Говори смело, понимай больше.",
+      "category": "Success",
+      "generated_at": "2026-04-22T20:09:23.318270"
+    },
+    {
+      "english": "Listen carefully, connect deeply.",
+      "russian": "Слушай вдумчиво, связывайся глубже.",
+      "category": "Success",
+      "generated_at": "2026-04-22T20:09:23.318272"
+    },
+    {
+      "english": "Practice daily, find your rhythm.",
+      "russian": "Практикуй день, находи ритм.",
+      "category": "Success",
+      "generated_at": "2026-04-22T20:09:23.318273"
+    },
+    {
+      "english": "Mistakes fade, fluency remains.",
+      "russian": "Ошибки проходят, ясность остаётся.",
+      "category": "Success",
+      "generated_at": "2026-04-22T20:09:23.318274"
     }
   ],
-  "last_updated": "2026-04-22T17:09:59.508688"
+  "last_updated": "2026-04-22T20:09:23.318276"
 }
