@@ -2069,7 +2069,37 @@
       "russian": "Ошибки проходят, ясность остаётся.",
       "category": "Success",
       "generated_at": "2026-04-22T20:09:23.318274"
+    },
+    {
+      "english": "Say hello? Yes, bravely.",
+      "russian": "Привет сказать? Да, смелее.",
+      "category": "Motivation",
+      "generated_at": "2026-04-22T22:39:20.608671"
+    },
+    {
+      "english": "Mistakes shimmer, then settle.",
+      "russian": "Ошибки мерцают, потом ровно.",
+      "category": "Motivation",
+      "generated_at": "2026-04-22T22:39:20.608678"
+    },
+    {
+      "english": "Your voice is found now.",
+      "russian": "Голос твой найдётся теперь.",
+      "category": "Motivation",
+      "generated_at": "2026-04-22T22:39:20.608680"
+    },
+    {
+      "english": "Listen to whispers. Grow.",
+      "russian": "Слушай шёпот, потом растут.",
+      "category": "Motivation",
+      "generated_at": "2026-04-22T22:39:20.608681"
+    },
+    {
+      "english": "Curiosity, unlock doors.",
+      "russian": "Любопытство, откроет двери.",
+      "category": "Motivation",
+      "generated_at": "2026-04-22T22:39:20.608682"
     }
   ],
-  "last_updated": "2026-04-22T20:09:23.318276"
+  "last_updated": "2026-04-22T22:39:20.608684"
 }
