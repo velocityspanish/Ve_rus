@@ -1979,7 +1979,37 @@
       "russian": "Страх уйдёт, смелость придёт.",
       "category": "Confidence",
       "generated_at": "2026-04-22T04:09:08.695296"
+    },
+    {
+      "english": "Speak clear, like a spring.",
+      "russian": "Говори ясно, как родник.",
+      "category": "Confidence",
+      "generated_at": "2026-04-22T14:49:11.019605"
+    },
+    {
+      "english": "Your voice, like a river.",
+      "russian": "Твой голос, как река.",
+      "category": "Confidence",
+      "generated_at": "2026-04-22T14:49:11.019615"
+    },
+    {
+      "english": "Learn deep, like the ocean.",
+      "russian": "Учись глубоко, как океан.",
+      "category": "Confidence",
+      "generated_at": "2026-04-22T14:49:11.019617"
+    },
+    {
+      "english": "This skill, like a sunrise.",
+      "russian": "Этот навык, как восход.",
+      "category": "Confidence",
+      "generated_at": "2026-04-22T14:49:11.019618"
+    },
+    {
+      "english": "Each word, a sturdy branch.",
+      "russian": "Каждое слово, ветка стойкая.",
+      "category": "Confidence",
+      "generated_at": "2026-04-22T14:49:11.019619"
     }
   ],
-  "last_updated": "2026-04-22T04:09:08.695298"
+  "last_updated": "2026-04-22T14:49:11.019620"
 }
