@@ -2009,7 +2009,37 @@
       "russian": "Каждое слово, ветка стойкая.",
       "category": "Confidence",
       "generated_at": "2026-04-22T14:49:11.019619"
+    },
+    {
+      "english": "Strong as mountain oak.",
+      "russian": "Крепкая, как дуб.",
+      "category": "Strength",
+      "generated_at": "2026-04-22T17:09:59.508667"
+    },
+    {
+      "english": "Sunrise ignites spirit.",
+      "russian": "Рассвет зажигает дух.",
+      "category": "Strength",
+      "generated_at": "2026-04-22T17:09:59.508679"
+    },
+    {
+      "english": "Like river flows, grow.",
+      "russian": "Как река, льйся, расти.",
+      "category": "Strength",
+      "generated_at": "2026-04-22T17:09:59.508682"
+    },
+    {
+      "english": "Root deep, stand tall.",
+      "russian": "Корни вглубь, стой прямо.",
+      "category": "Strength",
+      "generated_at": "2026-04-22T17:09:59.508684"
+    },
+    {
+      "english": "Gale bends, not breaks.",
+      "russian": "Буря гнёт, ломает нет.",
+      "category": "Strength",
+      "generated_at": "2026-04-22T17:09:59.508685"
     }
   ],
-  "last_updated": "2026-04-22T14:49:11.019620"
+  "last_updated": "2026-04-22T17:09:59.508688"
 }
