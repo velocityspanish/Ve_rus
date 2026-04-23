@@ -2189,7 +2189,37 @@
       "russian": "Грамматика щелкнула, ощути это.",
       "category": "Forgiveness",
       "generated_at": "2026-04-23T17:26:47.185724"
+    },
+    {
+      "english": "Seeds push through. Try again.",
+      "russian": "Семя растёт. Работай дальше.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-23T20:09:34.874407"
+    },
+    {
+      "english": "Rivers carve stone. Keep flowing.",
+      "russian": "Река точит камень. Теки.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-23T20:09:34.874417"
+    },
+    {
+      "english": "Mountains endure wind. Stand firm.",
+      "russian": "Горы встречают ветер. Держись.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-23T20:09:34.874419"
+    },
+    {
+      "english": "Stars pierce dusk. Push through.",
+      "russian": "Звёзды пронзают тьму. Пробивайся.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-23T20:09:34.874420"
+    },
+    {
+      "english": "Forest grows slow. Be patient.",
+      "russian": "Лес растет медленно. Жди.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-23T20:09:34.874421"
     }
   ],
-  "last_updated": "2026-04-23T17:26:47.185725"
+  "last_updated": "2026-04-23T20:09:34.874423"
 }
