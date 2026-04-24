@@ -2309,7 +2309,37 @@
       "russian": "Действие рисует прогресс.",
       "category": "Courage",
       "generated_at": "2026-04-24T14:46:56.848904"
+    },
+    {
+      "english": "One new word, today.",
+      "russian": "Одно новое слово, сегодня.",
+      "category": "Friendship",
+      "generated_at": "2026-04-24T17:05:41.832297"
+    },
+    {
+      "english": "Good job saying that!",
+      "russian": "Смелое говорение, молодец!",
+      "category": "Friendship",
+      "generated_at": "2026-04-24T17:05:41.832308"
+    },
+    {
+      "english": "Tiny step, big deal.",
+      "russian": "Маленький шаг, важно.",
+      "category": "Friendship",
+      "generated_at": "2026-04-24T17:05:41.832311"
+    },
+    {
+      "english": "You help, always.",
+      "russian": "Ты помогаешь, все время.",
+      "category": "Friendship",
+      "generated_at": "2026-04-24T17:05:41.832313"
+    },
+    {
+      "english": "Sound so clear, nice!",
+      "russian": "Звучит так чисто, отлично!",
+      "category": "Friendship",
+      "generated_at": "2026-04-24T17:05:41.832315"
     }
   ],
-  "last_updated": "2026-04-24T14:46:56.848906"
+  "last_updated": "2026-04-24T17:05:41.832323"
 }
