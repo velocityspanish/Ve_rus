@@ -2279,7 +2279,37 @@
       "russian": "Душа зажжет, новый огонь.",
       "category": "Confidence",
       "generated_at": "2026-04-24T04:18:27.843002"
+    },
+    {
+      "english": "Dare to begin, now.",
+      "russian": "Смейся начать, сейчас.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T14:46:56.848894"
+    },
+    {
+      "english": "Forward! Your voice calls.",
+      "russian": "Вперёд! Зовёт голос.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T14:46:56.848901"
+    },
+    {
+      "english": "Speak life, breathe fire.",
+      "russian": "Говори жизнь, дыши огнём.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T14:46:56.848902"
+    },
+    {
+      "english": "Push limits, fly free.",
+      "russian": "Толкай пределы, лети.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T14:46:56.848903"
+    },
+    {
+      "english": "Action paints progress.",
+      "russian": "Действие рисует прогресс.",
+      "category": "Courage",
+      "generated_at": "2026-04-24T14:46:56.848904"
     }
   ],
-  "last_updated": "2026-04-24T04:18:27.843003"
+  "last_updated": "2026-04-24T14:46:56.848906"
 }
