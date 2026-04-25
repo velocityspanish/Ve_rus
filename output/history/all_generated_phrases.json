@@ -2399,7 +2399,37 @@
       "russian": "грамматика пейзаж, исследуй сейчас.",
       "category": "Purpose",
       "generated_at": "2026-04-24T22:32:46.537289"
+    },
+    {
+      "english": "New word today, happy.",
+      "russian": "Новое слово, неплохо.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T03:53:09.826435"
+    },
+    {
+      "english": "Order coffee, success!",
+      "russian": "Кофе заказал, здорово!",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T03:53:09.826445"
+    },
+    {
+      "english": "Said hello, feels good.",
+      "russian": "Сказал «привет», хорошо.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T03:53:09.826447"
+    },
+    {
+      "english": "Understood sentence, wow.",
+      "russian": "Фразу понял, ух ты.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T03:53:09.826448"
+    },
+    {
+      "english": "My Russian growing.",
+      "russian": "Русский мой растет.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-25T03:53:09.826449"
     }
   ],
-  "last_updated": "2026-04-24T22:32:46.537290"
+  "last_updated": "2026-04-25T03:53:09.826451"
 }
