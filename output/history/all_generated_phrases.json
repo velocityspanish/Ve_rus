@@ -2609,7 +2609,37 @@
       "russian": "Веди добротой, всегда.",
       "category": "Friendship",
       "generated_at": "2026-04-26T14:06:15.722265"
+    },
+    {
+      "english": "Word understood, great!",
+      "russian": "Слово понял, отлично!",
+      "category": "Confidence",
+      "generated_at": "2026-04-26T16:53:45.515424"
+    },
+    {
+      "english": "That felt smooth.",
+      "russian": "Звучит гладко.",
+      "category": "Confidence",
+      "generated_at": "2026-04-26T16:53:45.515432"
+    },
+    {
+      "english": "Small phrase, victory!",
+      "russian": "Фраза малая, победа!",
+      "category": "Confidence",
+      "generated_at": "2026-04-26T16:53:45.515434"
+    },
+    {
+      "english": "Your accent, evolving.",
+      "russian": "Акцент меняется.",
+      "category": "Confidence",
+      "generated_at": "2026-04-26T16:53:45.515435"
+    },
+    {
+      "english": "Conversation flows, yes!",
+      "russian": "Беседа льётся, да!",
+      "category": "Confidence",
+      "generated_at": "2026-04-26T16:53:45.515436"
     }
   ],
-  "last_updated": "2026-04-26T14:06:15.722266"
+  "last_updated": "2026-04-26T16:53:45.515438"
 }
