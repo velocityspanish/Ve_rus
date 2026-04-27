@@ -2729,7 +2729,37 @@
       "russian": "Русский звучит чётко.",
       "category": "Confidence",
       "generated_at": "2026-04-27T04:32:03.746832"
+    },
+    {
+      "english": "Speak word, watch mind bloom.",
+      "russian": "Скажи слово, смотри, как ум цветёт.",
+      "category": "Success",
+      "generated_at": "2026-04-27T15:11:01.099600"
+    },
+    {
+      "english": "Action now, progress unfolds.",
+      "russian": "Дейстие сейчас, прогресс раскрывается.",
+      "category": "Success",
+      "generated_at": "2026-04-27T15:11:01.099611"
+    },
+    {
+      "english": "Every sound, a door opens.",
+      "russian": "Каждый звук, дверь открывается.",
+      "category": "Success",
+      "generated_at": "2026-04-27T15:11:01.099612"
+    },
+    {
+      "english": "Brave sound, a new path.",
+      "russian": "Смелый звук, новая дорога.",
+      "category": "Success",
+      "generated_at": "2026-04-27T15:11:01.099613"
+    },
+    {
+      "english": "Fluent thoughts, language flows.",
+      "russian": "Свободные мысли, язык течёт.",
+      "category": "Success",
+      "generated_at": "2026-04-27T15:11:01.099614"
     }
   ],
-  "last_updated": "2026-04-27T04:32:03.746834"
+  "last_updated": "2026-04-27T15:11:01.099615"
 }
