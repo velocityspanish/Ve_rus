@@ -2699,7 +2699,37 @@
       "russian": "Мудрость приходит, миг медленный.",
       "category": "Patience",
       "generated_at": "2026-04-26T22:28:23.134703"
+    },
+    {
+      "english": "Heard a word, proud.",
+      "russian": "Слышал слово, гордо.",
+      "category": "Confidence",
+      "generated_at": "2026-04-27T04:32:03.746820"
+    },
+    {
+      "english": "Spoke a phrase, smile.",
+      "russian": "Сказал фразу, улыбка.",
+      "category": "Confidence",
+      "generated_at": "2026-04-27T04:32:03.746828"
+    },
+    {
+      "english": "Learned one verb, great.",
+      "russian": "Выучил глагол, здорово.",
+      "category": "Confidence",
+      "generated_at": "2026-04-27T04:32:03.746830"
+    },
+    {
+      "english": "Understood then, yes!",
+      "russian": "Понял потом, да!",
+      "category": "Confidence",
+      "generated_at": "2026-04-27T04:32:03.746831"
+    },
+    {
+      "english": "Russian sounds clear.",
+      "russian": "Русский звучит чётко.",
+      "category": "Confidence",
+      "generated_at": "2026-04-27T04:32:03.746832"
     }
   ],
-  "last_updated": "2026-04-26T22:28:23.134704"
+  "last_updated": "2026-04-27T04:32:03.746834"
 }
