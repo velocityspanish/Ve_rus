@@ -2849,7 +2849,37 @@
       "russian": "Свет внутри, сияет ярко.",
       "category": "Hope",
       "generated_at": "2026-04-27T22:40:21.102241"
+    },
+    {
+      "english": "Yes! I understood that.",
+      "russian": "Да! Я понял это.",
+      "category": "Purpose",
+      "generated_at": "2026-04-28T04:34:57.123698"
+    },
+    {
+      "english": "One word, mastered now.",
+      "russian": "Слово, усвоено сейчас.",
+      "category": "Purpose",
+      "generated_at": "2026-04-28T04:34:57.123707"
+    },
+    {
+      "english": "Better pronunciation, happens.",
+      "russian": "Лучше произношение, случается.",
+      "category": "Purpose",
+      "generated_at": "2026-04-28T04:34:57.123709"
+    },
+    {
+      "english": "Sentence formed, nicely.",
+      "russian": "Фраза сложилась, хорошо.",
+      "category": "Purpose",
+      "generated_at": "2026-04-28T04:34:57.123710"
+    },
+    {
+      "english": "Speaking, easier today.",
+      "russian": "Говорить, легче сегодня.",
+      "category": "Purpose",
+      "generated_at": "2026-04-28T04:34:57.123711"
     }
   ],
-  "last_updated": "2026-04-27T22:40:21.102243"
+  "last_updated": "2026-04-28T04:34:57.123713"
 }
