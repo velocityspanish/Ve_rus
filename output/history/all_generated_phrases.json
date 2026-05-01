@@ -3179,7 +3179,37 @@
       "russian": "Малый успех, дух силён.",
       "category": "Perseverance",
       "generated_at": "2026-05-01T04:52:09.327210"
+    },
+    {
+      "english": "Try new sound, feel power.",
+      "russian": "Пробуй новый звук, почувствуй силу.",
+      "category": "Success",
+      "generated_at": "2026-05-01T14:18:55.108558"
+    },
+    {
+      "english": "Whisper a phrase, absorb it.",
+      "russian": "Шепни фразу, впитай её.",
+      "category": "Success",
+      "generated_at": "2026-05-01T14:18:55.108592"
+    },
+    {
+      "english": "Speak boldly, let Russian flow.",
+      "russian": "Говори смело, пусть русский течёт.",
+      "category": "Success",
+      "generated_at": "2026-05-01T14:18:55.108598"
+    },
+    {
+      "english": "Breathe deep, then answer.",
+      "russian": "Дыши глубоко, затем отвечай.",
+      "category": "Success",
+      "generated_at": "2026-05-01T14:18:55.108600"
+    },
+    {
+      "english": "Curiosity sparks, knowledge blooms.",
+      "russian": "Любопытство зажглось, знание цветёт.",
+      "category": "Success",
+      "generated_at": "2026-05-01T14:18:55.108602"
     }
   ],
-  "last_updated": "2026-05-01T04:52:09.327212"
+  "last_updated": "2026-05-01T14:18:55.108604"
 }
