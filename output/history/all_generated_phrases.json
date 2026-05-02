@@ -3389,7 +3389,37 @@
       "russian": "Прими поворот, лицом.",
       "category": "Courage",
       "generated_at": "2026-05-02T16:57:56.799409"
+    },
+    {
+      "english": "Open, to each new word.",
+      "russian": "Открыт, каждому слову.",
+      "category": "Inspiration",
+      "generated_at": "2026-05-02T22:31:46.121755"
+    },
+    {
+      "english": "Listen, with a quiet heart.",
+      "russian": "Слушай, с тихим сердцем.",
+      "category": "Inspiration",
+      "generated_at": "2026-05-02T22:31:46.121765"
+    },
+    {
+      "english": "Discover, Russian within.",
+      "russian": "Открой, русский внутри.",
+      "category": "Inspiration",
+      "generated_at": "2026-05-02T22:31:46.121767"
+    },
+    {
+      "english": "Sound bright, bloom slowly.",
+      "russian": "Звучит ярко, растет медленно.",
+      "category": "Inspiration",
+      "generated_at": "2026-05-02T22:31:46.121768"
+    },
+    {
+      "english": "Meaning unfolds, like dawn.",
+      "russian": "Смысл раскроется, как рассвет.",
+      "category": "Inspiration",
+      "generated_at": "2026-05-02T22:31:46.121768"
     }
   ],
-  "last_updated": "2026-05-02T16:57:56.799411"
+  "last_updated": "2026-05-02T22:31:46.121770"
 }
