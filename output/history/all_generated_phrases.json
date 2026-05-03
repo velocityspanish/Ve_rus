@@ -3539,7 +3539,37 @@
       "russian": "Начни примерять.",
       "category": "Confidence",
       "generated_at": "2026-05-03T19:56:54.937835"
+    },
+    {
+      "english": "Hear sound, then whisper, yes?",
+      "russian": "Слышишь звук, потом шепнуть, да?",
+      "category": "Patience",
+      "generated_at": "2026-05-03T22:31:12.494033"
+    },
+    {
+      "english": "One word, then next, good start.",
+      "russian": "Одно слово, затем следующее, хорошо.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T22:31:12.494045"
+    },
+    {
+      "english": "Connect letters, watch meaning bloom.",
+      "russian": "Соедини буквы, увидишь смысл.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T22:31:12.494046"
+    },
+    {
+      "english": "Today's effort, small step.",
+      "russian": "Сегодняшний шаг, маленький вперёд.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T22:31:12.494048"
+    },
+    {
+      "english": "Sentence forming, bit by bit.",
+      "russian": "Строки сложатся, потихоньку.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T22:31:12.494049"
     }
   ],
-  "last_updated": "2026-05-03T19:56:54.937837"
+  "last_updated": "2026-05-03T22:31:12.494051"
 }
