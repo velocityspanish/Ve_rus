@@ -3689,7 +3689,37 @@
       "russian": "Благодарю жизнь, за свободу.",
       "category": "Gratitude",
       "generated_at": "2026-05-04T20:21:50.716709"
+    },
+    {
+      "english": "A bud, seeks the sun.",
+      "russian": "Бутон, ловит солнце.",
+      "category": "Hope",
+      "generated_at": "2026-05-04T22:48:30.181290"
+    },
+    {
+      "english": "Seeds grow, unseen now.",
+      "russian": "Зерно растет, пока не видно.",
+      "category": "Hope",
+      "generated_at": "2026-05-04T22:48:30.181299"
+    },
+    {
+      "english": "Stars ignite, the dark.",
+      "russian": "Звезды зажигают, тьму.",
+      "category": "Hope",
+      "generated_at": "2026-05-04T22:48:30.181301"
+    },
+    {
+      "english": "A river flows, to sea.",
+      "russian": "Река стремится, в море.",
+      "category": "Hope",
+      "generated_at": "2026-05-04T22:48:30.181302"
+    },
+    {
+      "english": "Each breath, a new start.",
+      "russian": "Каждый вдох, новая надежда.",
+      "category": "Hope",
+      "generated_at": "2026-05-04T22:48:30.181303"
     }
   ],
-  "last_updated": "2026-05-04T20:21:50.716711"
+  "last_updated": "2026-05-04T22:48:30.181304"
 }
