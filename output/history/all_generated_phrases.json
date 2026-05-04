@@ -3629,7 +3629,37 @@
       "russian": "Тишина дарит, веданье глубже.",
       "category": "Positive Life",
       "generated_at": "2026-05-04T15:12:32.035270"
+    },
+    {
+      "english": "Phrase learned, mind grows.",
+      "russian": "Фраза усвоена, ум растет.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-04T17:46:29.408107"
+    },
+    {
+      "english": "Just heard it, understood.",
+      "russian": "Только услышал, понял.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-04T17:46:29.408118"
+    },
+    {
+      "english": "One more word, makes sense.",
+      "russian": "Еще слово, по смыслу.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-04T17:46:29.408119"
+    },
+    {
+      "english": "My voice rings, clear.",
+      "russian": "Голос звучит, прямо.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-04T17:46:29.408121"
+    },
+    {
+      "english": "This lesson held, success.",
+      "russian": "Этот урок, удался.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-04T17:46:29.408122"
     }
   ],
-  "last_updated": "2026-05-04T15:12:32.035272"
+  "last_updated": "2026-05-04T17:46:29.408137"
 }
