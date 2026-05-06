@@ -3839,7 +3839,37 @@
       "russian": "Ошибка случается, говори дальше.",
       "category": "Perseverance",
       "generated_at": "2026-05-05T23:05:03.308124"
+    },
+    {
+      "english": "Tech rush, slow heart. Yes?",
+      "russian": "Техно-гонка, замедли сердце. Ага?",
+      "category": "Balance",
+      "generated_at": "2026-05-06T04:35:25.261546"
+    },
+    {
+      "english": "Pixels fade, real life. Bloom.",
+      "russian": "Пиксели тают, жизнь реальна. Расцвет.",
+      "category": "Balance",
+      "generated_at": "2026-05-06T04:35:25.261555"
+    },
+    {
+      "english": "Scroll less, listen more.",
+      "russian": "Скролль меньше, слушай тише.",
+      "category": "Balance",
+      "generated_at": "2026-05-06T04:35:25.261556"
+    },
+    {
+      "english": "Noise quiets, true self.",
+      "russian": "Шум утих, истинно я.",
+      "category": "Balance",
+      "generated_at": "2026-05-06T04:35:25.261558"
+    },
+    {
+      "english": "Work done, breathe slow.",
+      "russian": "Дело сделано, дыши глубже.",
+      "category": "Balance",
+      "generated_at": "2026-05-06T04:35:25.261559"
     }
   ],
-  "last_updated": "2026-05-05T23:05:03.308126"
+  "last_updated": "2026-05-06T04:35:25.261560"
 }
