@@ -4889,7 +4889,37 @@
       "russian": "Звук освоен, отпразднуй.",
       "category": "Motivation",
       "generated_at": "2026-05-12T22:52:56.993771"
+    },
+    {
+      "english": "Phrase learned, bravo!",
+      "russian": "Фраза усвоена, браво!",
+      "category": "Strength",
+      "generated_at": "2026-05-13T04:45:20.886566"
+    },
+    {
+      "english": "Word sounds right this time.",
+      "russian": "Слово прозвучало верно.",
+      "category": "Strength",
+      "generated_at": "2026-05-13T04:45:20.886577"
+    },
+    {
+      "english": "Sentence flowed perfectly.",
+      "russian": "Предложение легло гладко.",
+      "category": "Strength",
+      "generated_at": "2026-05-13T04:45:20.886579"
+    },
+    {
+      "english": "You spoke, they understood.",
+      "russian": "Ты говорил, поняли.",
+      "category": "Strength",
+      "generated_at": "2026-05-13T04:45:20.886580"
+    },
+    {
+      "english": "Connection made, wonderful.",
+      "russian": "Связь налажена, супер.",
+      "category": "Strength",
+      "generated_at": "2026-05-13T04:45:20.886581"
     }
   ],
-  "last_updated": "2026-05-12T22:52:56.993773"
+  "last_updated": "2026-05-13T04:45:20.886583"
 }
