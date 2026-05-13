@@ -4979,7 +4979,37 @@
       "russian": "Возьми свой огонь, будь смелым.",
       "category": "Joy",
       "generated_at": "2026-05-13T18:13:06.902419"
+    },
+    {
+      "english": "Brave step, each day.",
+      "russian": "Смелый шаг, каждый день.",
+      "category": "Courage",
+      "generated_at": "2026-05-13T20:48:47.853707"
+    },
+    {
+      "english": "Tiny win, fuels fire.",
+      "russian": "Маленькая победа, греет.",
+      "category": "Courage",
+      "generated_at": "2026-05-13T20:48:47.853718"
+    },
+    {
+      "english": "One sound, more progress.",
+      "russian": "Один звук, ближе к цели.",
+      "category": "Courage",
+      "generated_at": "2026-05-13T20:48:47.853719"
+    },
+    {
+      "english": "Your effort shines.",
+      "russian": "Твои старания, светят.",
+      "category": "Courage",
+      "generated_at": "2026-05-13T20:48:47.853721"
+    },
+    {
+      "english": "Listen, then speak.",
+      "russian": "Слушай, потом говори.",
+      "category": "Courage",
+      "generated_at": "2026-05-13T20:48:47.853722"
     }
   ],
-  "last_updated": "2026-05-13T18:13:06.902420"
+  "last_updated": "2026-05-13T20:48:47.853723"
 }
