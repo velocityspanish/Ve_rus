@@ -5099,7 +5099,37 @@
       "russian": "Звезды зажигают, мечты светят.",
       "category": "Positive Life",
       "generated_at": "2026-05-14T15:22:48.460486"
+    },
+    {
+      "english": "Speak strong, like oak.",
+      "russian": "Говорил крепко, как дуб.",
+      "category": "Confidence",
+      "generated_at": "2026-05-14T17:59:10.940727"
+    },
+    {
+      "english": "Your voice, clear echo.",
+      "russian": "Голос твой, ясным эхом.",
+      "category": "Confidence",
+      "generated_at": "2026-05-14T17:59:10.940736"
+    },
+    {
+      "english": "Seeds sprout, brave word.",
+      "russian": "Семя tumbuh, слово смело.",
+      "category": "Confidence",
+      "generated_at": "2026-05-14T17:59:10.940737"
+    },
+    {
+      "english": "River flows, your accent.",
+      "russian": "Река течет, твой говор.",
+      "category": "Confidence",
+      "generated_at": "2026-05-14T17:59:10.940738"
+    },
+    {
+      "english": "Mountain peak, you climbed.",
+      "russian": "Вершина горы, достиг ты.",
+      "category": "Confidence",
+      "generated_at": "2026-05-14T17:59:10.940740"
     }
   ],
-  "last_updated": "2026-05-14T15:22:48.460488"
+  "last_updated": "2026-05-14T17:59:10.940741"
 }
