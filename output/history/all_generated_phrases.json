@@ -5489,7 +5489,37 @@
       "russian": "Осень шепчет, сказки плывут.",
       "category": "Happiness",
       "generated_at": "2026-05-19T20:48:11.909160"
+    },
+    {
+      "english": "Mistakes are just turns.",
+      "russian": "Ошибки - просто повороты.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-19T22:57:15.973645"
+    },
+    {
+      "english": "Listen closely, understand.",
+      "russian": "Слушай внимательно, пойми.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-19T22:57:15.973660"
+    },
+    {
+      "english": "Kindness smooths the way.",
+      "russian": "Доброта смягчает путь.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-19T22:57:15.973663"
+    },
+    {
+      "english": "Every sound, finds its place.",
+      "russian": "Каждый звук, находит место.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-19T22:57:15.973666"
+    },
+    {
+      "english": "Feel the language, it's alive.",
+      "russian": "Чувствуй язык, он жив.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-19T22:57:15.973668"
     }
   ],
-  "last_updated": "2026-05-19T20:48:11.909162"
+  "last_updated": "2026-05-19T22:57:15.973670"
 }
