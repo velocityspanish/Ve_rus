@@ -5549,7 +5549,37 @@
       "russian": "Словно река, свободноﬂ;",
       "category": "Growth",
       "generated_at": "2026-05-20T05:06:25.653647"
+    },
+    {
+      "english": "Speak first, perfect later.",
+      "russian": "Говорит первым, потом совершенствуй.",
+      "category": "Confidence",
+      "generated_at": "2026-05-20T16:30:11.467532"
+    },
+    {
+      "english": "Bold voice, new world.",
+      "russian": "Смелый голос, новый мир.",
+      "category": "Confidence",
+      "generated_at": "2026-05-20T16:30:11.467541"
+    },
+    {
+      "english": "Russian awaits, you try.",
+      "russian": "Русский ждёт, ты пробуй.",
+      "category": "Confidence",
+      "generated_at": "2026-05-20T16:30:11.467542"
+    },
+    {
+      "english": "Act now, learn faster.",
+      "russian": "Действуй сейчас, учи быстрее.",
+      "category": "Confidence",
+      "generated_at": "2026-05-20T16:30:11.467543"
+    },
+    {
+      "english": "Your accent, your strength.",
+      "russian": "Твоё произношение, твоя сила.",
+      "category": "Confidence",
+      "generated_at": "2026-05-20T16:30:11.467544"
     }
   ],
-  "last_updated": "2026-05-20T05:06:25.653648"
+  "last_updated": "2026-05-20T16:30:11.467545"
 }
