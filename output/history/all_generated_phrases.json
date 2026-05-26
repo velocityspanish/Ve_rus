@@ -6419,7 +6419,37 @@
       "russian": "Доброта всплывет, наверх.",
       "category": "Joy",
       "generated_at": "2026-05-25T22:52:17.902935"
+    },
+    {
+      "english": "Understand depth, speak truth.",
+      "russian": "Знай глубину, говори правду.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-26T05:05:11.496255"
+    },
+    {
+      "english": "Listen much, learn everything.",
+      "russian": "Слушай много, познай всё.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-26T05:05:11.496265"
+    },
+    {
+      "english": "Change your mind, change Russia.",
+      "russian": "Измени себя, измени язык.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-26T05:05:11.496266"
+    },
+    {
+      "english": "Dare to mistake, discover more.",
+      "russian": "Смейся ошибкой, найди новое.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-26T05:05:11.496267"
+    },
+    {
+      "english": "Embrace silence, find Russian words.",
+      "russian": "Прими тишину, найди слова.",
+      "category": "Wisdom",
+      "generated_at": "2026-05-26T05:05:11.496267"
     }
   ],
-  "last_updated": "2026-05-25T22:52:17.902936"
+  "last_updated": "2026-05-26T05:05:11.496269"
 }
