@@ -7589,7 +7589,37 @@
       "russian": "Горный туман, ясность блестит.",
       "category": "Success",
       "generated_at": "2026-06-02T21:53:33.533649"
+    },
+    {
+      "english": "Your word grows.",
+      "russian": "Твоё слово растёт.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-02T23:27:24.934489"
+    },
+    {
+      "english": "Listen well, learn best.",
+      "russian": "Прислушайся отлично, учись лучше.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-02T23:27:24.934498"
+    },
+    {
+      "english": "Try one more, succeed.",
+      "russian": "Попробуй ещё раз, получится.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-02T23:27:24.934499"
+    },
+    {
+      "english": "A small phrase, great meaning.",
+      "russian": "Маленькая фраза, больший смысл.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-02T23:27:24.934500"
+    },
+    {
+      "english": "Understand a piece, celebrate.",
+      "russian": "Понято сейчас, радуйся.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-02T23:27:24.934501"
     }
   ],
-  "last_updated": "2026-06-02T21:53:33.533650"
+  "last_updated": "2026-06-02T23:27:24.934503"
 }
