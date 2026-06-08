@@ -8399,7 +8399,37 @@
       "russian": "Твои слова взлетят.",
       "category": "Purpose",
       "generated_at": "2026-06-08T05:52:39.261568"
+    },
+    {
+      "english": "Speak up, now.",
+      "russian": "Говори, сейчас.",
+      "category": "Courage",
+      "generated_at": "2026-06-08T16:51:01.506774"
+    },
+    {
+      "english": "Try boldly.",
+      "russian": "Пробуй смело.",
+      "category": "Courage",
+      "generated_at": "2026-06-08T16:51:01.506782"
+    },
+    {
+      "english": "Act, just do.",
+      "russian": "Действуй, просто сделай.",
+      "category": "Courage",
+      "generated_at": "2026-06-08T16:51:01.506784"
+    },
+    {
+      "english": "Leap, without fear.",
+      "russian": "Прыгай, без страха.",
+      "category": "Courage",
+      "generated_at": "2026-06-08T16:51:01.506785"
+    },
+    {
+      "english": "Create boldly, this much.",
+      "russian": "Твори смело, столько.",
+      "category": "Courage",
+      "generated_at": "2026-06-08T16:51:01.506786"
     }
   ],
-  "last_updated": "2026-06-08T05:52:39.261569"
+  "last_updated": "2026-06-08T16:51:01.506788"
 }
