@@ -8459,7 +8459,37 @@
       "russian": "Прощён, и стал свободен.",
       "category": "Strength",
       "generated_at": "2026-06-08T18:29:38.263214"
+    },
+    {
+      "english": "Gentle word, means most.",
+      "russian": "Доброе слово, ценится.",
+      "category": "Kindness",
+      "generated_at": "2026-06-08T21:13:06.629837"
+    },
+    {
+      "english": "Give, receive warmth.",
+      "russian": "Дари, почувствуй тепло.",
+      "category": "Kindness",
+      "generated_at": "2026-06-08T21:13:06.629850"
+    },
+    {
+      "english": "Helping hand, lifts us.",
+      "russian": "Помощь, поднимает дуэт.",
+      "category": "Kindness",
+      "generated_at": "2026-06-08T21:13:06.629851"
+    },
+    {
+      "english": "Share smile, brightens day.",
+      "russian": "Улыбнись, освети день.",
+      "category": "Kindness",
+      "generated_at": "2026-06-08T21:13:06.629852"
+    },
+    {
+      "english": "Listen now, understand more.",
+      "russian": "Слушай, пойми глубже.",
+      "category": "Kindness",
+      "generated_at": "2026-06-08T21:13:06.629853"
     }
   ],
-  "last_updated": "2026-06-08T18:29:38.263215"
+  "last_updated": "2026-06-08T21:13:06.629855"
 }
