@@ -8489,7 +8489,37 @@
       "russian": "Слушай, пойми глубже.",
       "category": "Kindness",
       "generated_at": "2026-06-08T21:13:06.629853"
+    },
+    {
+      "english": "Good progress today.",
+      "russian": "Хороший прогресс сегодня.",
+      "category": "Confidence",
+      "generated_at": "2026-06-08T23:07:55.388824"
+    },
+    {
+      "english": "Yes, I understand that!",
+      "russian": "Да, я это понял(а)!",
+      "category": "Confidence",
+      "generated_at": "2026-06-08T23:07:55.388835"
+    },
+    {
+      "english": "Almost perfect, bravo!",
+      "russian": "Почти идеально, браво!",
+      "category": "Confidence",
+      "generated_at": "2026-06-08T23:07:55.388837"
+    },
+    {
+      "english": "My pronunciation improves.",
+      "russian": "Произношение мое улучается.",
+      "category": "Confidence",
+      "generated_at": "2026-06-08T23:07:55.388838"
+    },
+    {
+      "english": "I spoke a real phrase!",
+      "russian": "Я сказал(а) настоящую фразу!",
+      "category": "Confidence",
+      "generated_at": "2026-06-08T23:07:55.388839"
     }
   ],
-  "last_updated": "2026-06-08T21:13:06.629855"
+  "last_updated": "2026-06-08T23:07:55.388841"
 }
