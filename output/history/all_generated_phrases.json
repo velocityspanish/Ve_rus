@@ -8789,7 +8789,37 @@
       "russian": "Суть сияет ясно.",
       "category": "Confidence",
       "generated_at": "2026-06-10T21:26:48.244731"
+    },
+    {
+      "english": "Speak this, now.",
+      "russian": "Скажи это, сейчас.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-10T23:18:49.141168"
+    },
+    {
+      "english": "Brave breath, true word.",
+      "russian": "Смелый вдох, верное слово.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-10T23:18:49.141181"
+    },
+    {
+      "english": "Learn from this.",
+      "russian": "Учись из этого.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-10T23:18:49.141183"
+    },
+    {
+      "english": "Feel the difference.",
+      "russian": "Почувствуй разницу.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-10T23:18:49.141184"
+    },
+    {
+      "english": "Voice travels far.",
+      "russian": "Голос летит далеко.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-10T23:18:49.141185"
     }
   ],
-  "last_updated": "2026-06-10T21:26:48.244733"
+  "last_updated": "2026-06-10T23:18:49.141187"
 }
