@@ -8819,7 +8819,37 @@
       "russian": "Голос летит далеко.",
       "category": "Mindfulness",
       "generated_at": "2026-06-10T23:18:49.141185"
+    },
+    {
+      "english": "Friend, don't be shy.",
+      "russian": "Друг, не стесняйся.",
+      "category": "Friendship",
+      "generated_at": "2026-06-11T05:49:47.123945"
+    },
+    {
+      "english": "Listen close, to the words.",
+      "russian": "Слушай близко, к словам.",
+      "category": "Friendship",
+      "generated_at": "2026-06-11T05:49:47.123956"
+    },
+    {
+      "english": "Your effort? Always shines.",
+      "russian": "Твой труд? Всегда блистает.",
+      "category": "Friendship",
+      "generated_at": "2026-06-11T05:49:47.123958"
+    },
+    {
+      "english": "That mistake? Understand.",
+      "russian": "Та ошибка? Пойми.",
+      "category": "Friendship",
+      "generated_at": "2026-06-11T05:49:47.123959"
+    },
+    {
+      "english": "Say it, try that word.",
+      "russian": "Скажи это, попробуй слово.",
+      "category": "Friendship",
+      "generated_at": "2026-06-11T05:49:47.123960"
     }
   ],
-  "last_updated": "2026-06-10T23:18:49.141187"
+  "last_updated": "2026-06-11T05:49:47.123962"
 }
