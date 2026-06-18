@@ -9959,7 +9959,37 @@
       "russian": "Глубже покой, питает действие.",
       "category": "Purpose",
       "generated_at": "2026-06-18T18:32:03.604857"
+    },
+    {
+      "english": "You're growing, my friend.",
+      "russian": "Ты растешь, мой друг.",
+      "category": "Success",
+      "generated_at": "2026-06-18T21:24:40.828487"
+    },
+    {
+      "english": "Enjoy this small win.",
+      "russian": "Прекрасный маленький успех.",
+      "category": "Success",
+      "generated_at": "2026-06-18T21:24:40.828498"
+    },
+    {
+      "english": "Yes, you can say this.",
+      "russian": "Да, можешь это сказать.",
+      "category": "Success",
+      "generated_at": "2026-06-18T21:24:40.828499"
+    },
+    {
+      "english": "This sounds so good!",
+      "russian": "Звучит очень хорошо!",
+      "category": "Success",
+      "generated_at": "2026-06-18T21:24:40.828500"
+    },
+    {
+      "english": "Keep it simple, keep it real.",
+      "russian": "Просто, и по-настоящему.",
+      "category": "Success",
+      "generated_at": "2026-06-18T21:24:40.828502"
     }
   ],
-  "last_updated": "2026-06-18T18:32:03.604858"
+  "last_updated": "2026-06-18T21:24:40.828503"
 }
