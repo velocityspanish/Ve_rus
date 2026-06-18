@@ -9989,7 +9989,37 @@
       "russian": "Просто, и по-настоящему.",
       "category": "Success",
       "generated_at": "2026-06-18T21:24:40.828502"
+    },
+    {
+      "english": "Give freely, expect nothing.",
+      "russian": "Давай щедро, не жди.",
+      "category": "Kindness",
+      "generated_at": "2026-06-18T23:28:23.637575"
+    },
+    {
+      "english": "Your warmth, brightens.",
+      "russian": "Твоё тепло, освещает.",
+      "category": "Kindness",
+      "generated_at": "2026-06-18T23:28:23.637587"
+    },
+    {
+      "english": "Help others, rise.",
+      "russian": "Помоги другим, подняться.",
+      "category": "Kindness",
+      "generated_at": "2026-06-18T23:28:23.637588"
+    },
+    {
+      "english": "Listen more, judge little.",
+      "russian": "Слушай больше, суди мало.",
+      "category": "Kindness",
+      "generated_at": "2026-06-18T23:28:23.637590"
+    },
+    {
+      "english": "Share your joy, contagiously.",
+      "russian": "Делись радостью, заразительно.",
+      "category": "Kindness",
+      "generated_at": "2026-06-18T23:28:23.637591"
     }
   ],
-  "last_updated": "2026-06-18T21:24:40.828503"
+  "last_updated": "2026-06-18T23:28:23.637593"
 }
