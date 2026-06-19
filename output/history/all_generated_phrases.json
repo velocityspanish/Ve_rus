@@ -10109,7 +10109,37 @@
       "russian": "Ошибки ведут. Не бойтесь.",
       "category": "Wisdom",
       "generated_at": "2026-06-19T18:03:14.915476"
+    },
+    {
+      "english": "Hear new words, understand.",
+      "russian": "Слушай новое, понимай.",
+      "category": "Motivation",
+      "generated_at": "2026-06-19T20:27:52.436510"
+    },
+    {
+      "english": "One phrase said, awesome!",
+      "russian": "Одна фраза, отлично!",
+      "category": "Motivation",
+      "generated_at": "2026-06-19T20:27:52.436519"
+    },
+    {
+      "english": "Correct sound, good job.",
+      "russian": "Звук верный, молодец.",
+      "category": "Motivation",
+      "generated_at": "2026-06-19T20:27:52.436521"
+    },
+    {
+      "english": "Today you learned, bravo.",
+      "russian": "Сегодня узнал, браво.",
+      "category": "Motivation",
+      "generated_at": "2026-06-19T20:27:52.436522"
+    },
+    {
+      "english": "Russian grows, in you.",
+      "russian": "Русский растёт, в тебе.",
+      "category": "Motivation",
+      "generated_at": "2026-06-19T20:27:52.436523"
     }
   ],
-  "last_updated": "2026-06-19T18:03:14.915488"
+  "last_updated": "2026-06-19T20:27:52.436525"
 }
