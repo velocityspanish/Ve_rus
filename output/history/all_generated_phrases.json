@@ -11099,7 +11099,37 @@
       "russian": "Верь росту, бережно вверься.",
       "category": "Gratitude",
       "generated_at": "2026-06-26T05:09:50.999183"
+    },
+    {
+      "english": "Forge your own path.",
+      "russian": "Найди свой путь.",
+      "category": "Success",
+      "generated_at": "2026-06-26T15:25:09.669914"
+    },
+    {
+      "english": "Speak bravely, learn more.",
+      "russian": "Говори смело, учись.",
+      "category": "Success",
+      "generated_at": "2026-06-26T15:25:09.669923"
+    },
+    {
+      "english": "Unlock new worlds.",
+      "russian": "Открой новые миры.",
+      "category": "Success",
+      "generated_at": "2026-06-26T15:25:09.669925"
+    },
+    {
+      "english": "Own your progress.",
+      "russian": "Владей своим прогрессом.",
+      "category": "Success",
+      "generated_at": "2026-06-26T15:25:09.669926"
+    },
+    {
+      "english": "Dive into sounds.",
+      "russian": "Ныряй взвуки.",
+      "category": "Success",
+      "generated_at": "2026-06-26T15:25:09.669927"
     }
   ],
-  "last_updated": "2026-06-26T05:09:50.999185"
+  "last_updated": "2026-06-26T15:25:09.669929"
 }
