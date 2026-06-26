@@ -11189,7 +11189,37 @@
       "russian": "Стой стойко, даже когда мал.",
       "category": "Courage",
       "generated_at": "2026-06-26T20:49:39.125023"
+    },
+    {
+      "english": "Silence whispers strength.",
+      "russian": "Тишина шепчет силу.",
+      "category": "Success",
+      "generated_at": "2026-06-26T22:59:23.188219"
+    },
+    {
+      "english": "Find your voice, now.",
+      "russian": "Найди свой голос, сейчас.",
+      "category": "Success",
+      "generated_at": "2026-06-26T22:59:23.188228"
+    },
+    {
+      "english": "Truth blooms inside.",
+      "russian": "Истина цветет внутри.",
+      "category": "Success",
+      "generated_at": "2026-06-26T22:59:23.188229"
+    },
+    {
+      "english": "Grow, from within.",
+      "russian": "Расти, изнутри.",
+      "category": "Success",
+      "generated_at": "2026-06-26T22:59:23.188230"
+    },
+    {
+      "english": "Light your own way.",
+      "russian": "Освети свой путь.",
+      "category": "Success",
+      "generated_at": "2026-06-26T22:59:23.188231"
     }
   ],
-  "last_updated": "2026-06-26T20:49:39.125025"
+  "last_updated": "2026-06-26T22:59:23.188233"
 }
