@@ -11519,7 +11519,37 @@
       "russian": "Храбрость смотрит страху, в лицо.",
       "category": "Strength",
       "generated_at": "2026-06-28T22:54:21.461476"
+    },
+    {
+      "english": "Small sounds, big leaps.",
+      "russian": "Маленькие звуки, большой скачок.",
+      "category": "Success",
+      "generated_at": "2026-06-29T05:51:50.220796"
+    },
+    {
+      "english": "Word by word, build strength.",
+      "russian": "Слово за слово, строить силу.",
+      "category": "Success",
+      "generated_at": "2026-06-29T05:51:50.220805"
+    },
+    {
+      "english": "Each phrase, unlocked.",
+      "russian": "Каждая фраза, разблокирована.",
+      "category": "Success",
+      "generated_at": "2026-06-29T05:51:50.220806"
+    },
+    {
+      "english": "Listen, absorb, grow.",
+      "russian": "Слушай, впитывай, расти.",
+      "category": "Success",
+      "generated_at": "2026-06-29T05:51:50.220808"
+    },
+    {
+      "english": "Day by day, getting closer.",
+      "russian": "День за днём, всё ближе.",
+      "category": "Success",
+      "generated_at": "2026-06-29T05:51:50.220809"
     }
   ],
-  "last_updated": "2026-06-28T22:54:21.461478"
+  "last_updated": "2026-06-29T05:51:50.220811"
 }
