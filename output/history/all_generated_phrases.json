@@ -12329,7 +12329,37 @@
       "russian": "Свет звезды, вечен.",
       "category": "Strength",
       "generated_at": "2026-07-04T14:40:22.412486"
+    },
+    {
+      "english": "Your tiny step, is enough.",
+      "russian": "Твой маленький шаг, уже ценен.",
+      "category": "Patience",
+      "generated_at": "2026-07-04T17:13:23.715002"
+    },
+    {
+      "english": "Progress shines, briefly.",
+      "russian": "Прогресс светит, кратко.",
+      "category": "Patience",
+      "generated_at": "2026-07-04T17:13:23.715012"
+    },
+    {
+      "english": "Breathe this word, gently.",
+      "russian": "Дыши этим словом, мягко.",
+      "category": "Patience",
+      "generated_at": "2026-07-04T17:13:23.715013"
+    },
+    {
+      "english": "Hear the change, a bit.",
+      "russian": "Слышишь изменение, немного.",
+      "category": "Patience",
+      "generated_at": "2026-07-04T17:13:23.715015"
+    },
+    {
+      "english": "Each attempt, builds.",
+      "russian": "Каждая попытка, строит.",
+      "category": "Patience",
+      "generated_at": "2026-07-04T17:13:23.715016"
     }
   ],
-  "last_updated": "2026-07-04T14:40:22.412487"
+  "last_updated": "2026-07-04T17:13:23.715017"
 }
