@@ -12449,7 +12449,37 @@
       "russian": "Орлиный фокус, глаза остры.",
       "category": "Strength",
       "generated_at": "2026-07-05T04:57:53.546205"
+    },
+    {
+      "english": "First sound, feels good.",
+      "russian": "Первый звук, уже радует.",
+      "category": "Balance",
+      "generated_at": "2026-07-05T14:46:37.304112"
+    },
+    {
+      "english": "Sentence makes sense, yes!",
+      "russian": "Фраза обрела смысл, ура!",
+      "category": "Balance",
+      "generated_at": "2026-07-05T14:46:37.304122"
+    },
+    {
+      "english": "Learned a phrase, that's a win.",
+      "russian": "Выучена фраза, это бонус.",
+      "category": "Balance",
+      "generated_at": "2026-07-05T14:46:37.304125"
+    },
+    {
+      "english": "Russian flows, more freely.",
+      "russian": "Русский льется, чуть свободнее.",
+      "category": "Balance",
+      "generated_at": "2026-07-05T14:46:37.304127"
+    },
+    {
+      "english": "Heard and grasped, a moment.",
+      "russian": "Услышано, понято, понемногу.",
+      "category": "Balance",
+      "generated_at": "2026-07-05T14:46:37.304128"
     }
   ],
-  "last_updated": "2026-07-05T04:57:53.546207"
+  "last_updated": "2026-07-05T14:46:37.304130"
 }
