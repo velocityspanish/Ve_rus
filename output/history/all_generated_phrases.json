@@ -12419,7 +12419,37 @@
       "russian": "Свет, закрепивший глубину.",
       "category": "Balance",
       "generated_at": "2026-07-04T22:47:32.619472"
+    },
+    {
+      "english": "Inner river, flows strong.",
+      "russian": "Внутренняя река, течёт сильно.",
+      "category": "Strength",
+      "generated_at": "2026-07-05T04:57:53.546191"
+    },
+    {
+      "english": "Oak root, holds ground.",
+      "russian": "Дуб корни, держит землю.",
+      "category": "Strength",
+      "generated_at": "2026-07-05T04:57:53.546200"
+    },
+    {
+      "english": "Mountain spirit, won't break.",
+      "russian": "Горный дух, не сломать.",
+      "category": "Strength",
+      "generated_at": "2026-07-05T04:57:53.546203"
+    },
+    {
+      "english": "Sunfire within, blazes.",
+      "russian": "Солнечный огонь внутри, горит.",
+      "category": "Strength",
+      "generated_at": "2026-07-05T04:57:53.546204"
+    },
+    {
+      "english": "Eagle focus, eyes sharp.",
+      "russian": "Орлиный фокус, глаза остры.",
+      "category": "Strength",
+      "generated_at": "2026-07-05T04:57:53.546205"
     }
   ],
-  "last_updated": "2026-07-04T22:47:32.619474"
+  "last_updated": "2026-07-05T04:57:53.546207"
 }
