@@ -13139,7 +13139,37 @@
       "russian": "Шепот словами становится.",
       "category": "Joy",
       "generated_at": "2026-07-10T04:52:54.001076"
+    },
+    {
+      "english": "Unmute your voice.",
+      "russian": "Включи свой голос.",
+      "category": "Purpose",
+      "generated_at": "2026-07-10T15:33:14.356771"
+    },
+    {
+      "english": "Build worlds, now.",
+      "russian": "Строй миры, сейчас.",
+      "category": "Purpose",
+      "generated_at": "2026-07-10T15:33:14.356780"
+    },
+    {
+      "english": "Speak truth, amplify.",
+      "russian": "Говори правду, взорви.",
+      "category": "Purpose",
+      "generated_at": "2026-07-10T15:33:14.356782"
+    },
+    {
+      "english": "Forge new paths.",
+      "russian": "Куй новые пути.",
+      "category": "Purpose",
+      "generated_at": "2026-07-10T15:33:14.356783"
+    },
+    {
+      "english": "Unleash Russian energy.",
+      "russian": "Высвободи энергий.",
+      "category": "Purpose",
+      "generated_at": "2026-07-10T15:33:14.356784"
     }
   ],
-  "last_updated": "2026-07-10T04:52:54.001077"
+  "last_updated": "2026-07-10T15:33:14.356786"
 }
