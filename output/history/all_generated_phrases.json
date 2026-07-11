@@ -13379,7 +13379,37 @@
       "russian": "Мягкие звуки, формируют.",
       "category": "Mindfulness",
       "generated_at": "2026-07-11T20:08:05.840661"
+    },
+    {
+      "english": "Yes, you said it!",
+      "russian": "Да, ты сказала!",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-11T22:38:02.694334"
+    },
+    {
+      "english": "Good word today, yes.",
+      "russian": "Хорошее слово сегодня, да.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-11T22:38:02.694344"
+    },
+    {
+      "english": "Your pronunciation, lovely.",
+      "russian": "Твоё произношение, приятно.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-11T22:38:02.694345"
+    },
+    {
+      "english": "This sentence was good.",
+      "russian": "Это предложение было хорошо.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-11T22:38:02.694348"
+    },
+    {
+      "english": "Understood clearly now.",
+      "russian": "Понятно ясно теперь.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-11T22:38:02.694350"
     }
   ],
-  "last_updated": "2026-07-11T20:08:05.840663"
+  "last_updated": "2026-07-11T22:38:02.694351"
 }
