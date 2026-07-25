@@ -13769,7 +13769,37 @@
       "russian": "Дыши глубже, думай ясно.",
       "category": "Balance",
       "generated_at": "2026-07-24T17:43:00.438330"
+    },
+    {
+      "english": "Speak now, don't wait.",
+      "russian": "Говори сейчас, не жди.",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T14:38:51.827021"
+    },
+    {
+      "english": "Your voice, it matters.",
+      "russian": "Твой голос, он важен.",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T14:38:51.827033"
+    },
+    {
+      "english": "Try the word, feel it.",
+      "russian": "Попробуй слово, почувствуй.",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T14:38:51.827035"
+    },
+    {
+      "english": "Russian sounds, perfect for you.",
+      "russian": "Русский звучит, тебе идеально.",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T14:38:51.827036"
+    },
+    {
+      "english": "Fear less, speak more.",
+      "russian": "Бойся меньше, говори больше.",
+      "category": "Confidence",
+      "generated_at": "2026-07-25T14:38:51.827037"
     }
   ],
-  "last_updated": "2026-07-24T17:43:00.438332"
+  "last_updated": "2026-07-25T14:38:51.827039"
 }
