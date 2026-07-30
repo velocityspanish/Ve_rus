@@ -14369,7 +14369,37 @@
       "russian": "Я выбираю спокойствие вместо скорости.",
       "category": "Balance",
       "generated_at": "2026-07-30T03:57:58.689595"
+    },
+    {
+      "english": "Text a friend, celebrate tiny",
+      "russian": "Напиши другу, отмечай крошечное",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T17:41:45.044268"
+    },
+    {
+      "english": "Share wins now, cheer together",
+      "russian": "Делись победами, радуйтесь вместе",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T17:41:45.044276"
+    },
+    {
+      "english": "Laugh softly, we grow closer",
+      "russian": "Тихо смеёмся, становимся ближе",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T17:41:45.044278"
+    },
+    {
+      "english": "Practice today, friends celebrate you",
+      "russian": "Тренируйся сегодня, друзья поддержат",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T17:41:45.044279"
+    },
+    {
+      "english": "One new word shared, smiles",
+      "russian": "Одно слово сказали вместе",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T17:41:45.044280"
     }
   ],
-  "last_updated": "2026-07-30T03:57:58.689597"
+  "last_updated": "2026-07-30T17:41:45.044285"
 }
