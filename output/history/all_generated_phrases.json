@@ -14819,7 +14819,37 @@
       "russian": "Превращай давление в движение вперёд.",
       "category": "Strength",
       "generated_at": "2026-08-03T22:52:01.508640"
+    },
+    {
+      "english": "Speak first, think on the go",
+      "russian": "Сначала скажи, думай по ходу",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:15:01.439801"
+    },
+    {
+      "english": "Make mistakes, then learn fast",
+      "russian": "Ошибайся, учись потом быстро",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:15:01.439813"
+    },
+    {
+      "english": "Turn fear off, speak anyway",
+      "russian": "Выключи страх, говори всё равно",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:15:01.439814"
+    },
+    {
+      "english": "Say it clearly, commit fully",
+      "russian": "Произнеси чётко, действуй до конца",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:15:01.439815"
+    },
+    {
+      "english": "Consistency beats mood today",
+      "russian": "Регулярность сильнее настроения сейчас",
+      "category": "Success",
+      "generated_at": "2026-08-04T04:15:01.439816"
     }
   ],
-  "last_updated": "2026-08-03T22:52:01.508642"
+  "last_updated": "2026-08-04T04:15:01.439818"
 }
