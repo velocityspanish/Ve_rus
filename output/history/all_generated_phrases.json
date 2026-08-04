@@ -14849,7 +14849,37 @@
       "russian": "Регулярность сильнее настроения сейчас",
       "category": "Success",
       "generated_at": "2026-08-04T04:15:01.439816"
+    },
+    {
+      "english": "Speak kindly, even when upset",
+      "russian": "Говори мягко, даже злясь",
+      "category": "Kindness",
+      "generated_at": "2026-08-04T15:26:07.937562"
+    },
+    {
+      "english": "Compliment effort, not perfection",
+      "russian": "Хвали старание, не идеал",
+      "category": "Kindness",
+      "generated_at": "2026-08-04T15:26:07.937576"
+    },
+    {
+      "english": "Offer help, no speeches needed",
+      "russian": "Помоги молча, без речей",
+      "category": "Kindness",
+      "generated_at": "2026-08-04T15:26:07.937578"
+    },
+    {
+      "english": "Choose repair over winning today",
+      "russian": "Выбирай исправить, а не победить сегодня",
+      "category": "Kindness",
+      "generated_at": "2026-08-04T15:26:07.937579"
+    },
+    {
+      "english": "Make space, then share the floor",
+      "russian": "Освободи место, потом говори вместе",
+      "category": "Kindness",
+      "generated_at": "2026-08-04T15:26:07.937580"
     }
   ],
-  "last_updated": "2026-08-04T04:15:01.439818"
+  "last_updated": "2026-08-04T15:26:07.937582"
 }
