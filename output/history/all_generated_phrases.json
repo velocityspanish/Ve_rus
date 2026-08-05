@@ -14999,7 +14999,37 @@
       "russian": "Сделай следующий ход, молча.",
       "category": "Perseverance",
       "generated_at": "2026-08-05T15:17:11.594958"
+    },
+    {
+      "english": "Breathe slow, soften your shoulders",
+      "russian": "Дыши медленней, расслабь плечи",
+      "category": "Balance",
+      "generated_at": "2026-08-05T17:46:03.819796"
+    },
+    {
+      "english": "Pause now, let tension go",
+      "russian": "Сейчас пауза, отпусти напряжение",
+      "category": "Balance",
+      "generated_at": "2026-08-05T17:46:03.819808"
+    },
+    {
+      "english": "Balance your day, not your mood",
+      "russian": "Балансируй день, не настроение",
+      "category": "Balance",
+      "generated_at": "2026-08-05T17:46:03.819810"
+    },
+    {
+      "english": "Ground yourself, feel your feet",
+      "russian": "Укоренься, почувствуй подошвы",
+      "category": "Balance",
+      "generated_at": "2026-08-05T17:46:03.819811"
+    },
+    {
+      "english": "Drink water, quiet your mind",
+      "russian": "Выпей воды, успокой голову",
+      "category": "Balance",
+      "generated_at": "2026-08-05T17:46:03.819812"
     }
   ],
-  "last_updated": "2026-08-05T15:17:11.594960"
+  "last_updated": "2026-08-05T17:46:03.819814"
 }
