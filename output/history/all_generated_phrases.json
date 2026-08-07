@@ -15269,7 +15269,37 @@
       "russian": "Слушай себя, не шум.",
       "category": "Friendship",
       "generated_at": "2026-08-07T14:14:26.293613"
+    },
+    {
+      "english": "Say it out loud, now.",
+      "russian": "Произнеси вслух, прямо сейчас.",
+      "category": "Purpose",
+      "generated_at": "2026-08-07T16:58:15.244555"
+    },
+    {
+      "english": "Practice meaning, then pronunciation.",
+      "russian": "Сначала смысл, потом произношение.",
+      "category": "Purpose",
+      "generated_at": "2026-08-07T16:58:15.244568"
+    },
+    {
+      "english": "Study one pattern, use it.",
+      "russian": "Выучи один шаблон, примени.",
+      "category": "Purpose",
+      "generated_at": "2026-08-07T16:58:15.244569"
+    },
+    {
+      "english": "Learn words in real sentences.",
+      "russian": "Запоминай слова в живых фразах.",
+      "category": "Purpose",
+      "generated_at": "2026-08-07T16:58:15.244571"
+    },
+    {
+      "english": "Ask why, then answer Russian.",
+      "russian": "Спроси почему, ответь по-русски.",
+      "category": "Purpose",
+      "generated_at": "2026-08-07T16:58:15.244572"
     }
   ],
-  "last_updated": "2026-08-07T14:14:26.293615"
+  "last_updated": "2026-08-07T16:58:15.244574"
 }
