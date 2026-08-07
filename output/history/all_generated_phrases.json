@@ -15239,7 +15239,37 @@
       "russian": "Я выбираю ясность, не месть.",
       "category": "Forgiveness",
       "generated_at": "2026-08-07T03:49:56.980789"
+    },
+    {
+      "english": "Friends meet you, inside first.",
+      "russian": "Друзья встречают тебя, внутри.",
+      "category": "Friendship",
+      "generated_at": "2026-08-07T14:14:26.293602"
+    },
+    {
+      "english": "We grow, by honest talk.",
+      "russian": "Мы растём, через честный разговор.",
+      "category": "Friendship",
+      "generated_at": "2026-08-07T14:14:26.293609"
+    },
+    {
+      "english": "Your calm is your power.",
+      "russian": "Твоя тишина — сила.",
+      "category": "Friendship",
+      "generated_at": "2026-08-07T14:14:26.293611"
+    },
+    {
+      "english": "Stand up, for your truth.",
+      "russian": "Встань, за свою правду.",
+      "category": "Friendship",
+      "generated_at": "2026-08-07T14:14:26.293612"
+    },
+    {
+      "english": "Trust your senses, not noise.",
+      "russian": "Слушай себя, не шум.",
+      "category": "Friendship",
+      "generated_at": "2026-08-07T14:14:26.293613"
     }
   ],
-  "last_updated": "2026-08-07T03:49:56.980790"
+  "last_updated": "2026-08-07T14:14:26.293615"
 }
